@@ -10,10 +10,7 @@ library(lmtest)
 library(plyr)
 library(plotly)
 
-datos <-read.csv("/Users/lisabeteille/Desktop/Marathon_web_2022/Codes/Graphiques/data/donnees_recruteurs.csv",sep = ";", na.strings=c(""," ") )
-datos2 <-read.csv("/Users/lisabeteille/Desktop/Marathon_web_2022/Codes/Graphiques/data/donnees_recruteurs.csv",sep = ",", na.strings=c(""," ") )
-
-
+datos <-read.csv("D:/Marathon_web_2022/Codes/Graphiques/data/donnees_recruteurs.csv",sep = ",", na.strings=c(""," ") )
 
 shinyServer(function(input, output) {
   
@@ -38,7 +35,7 @@ shinyServer(function(input, output) {
   })
   output$distPieGlobal <- renderPlotly({
     
-    datavide=datos2[complete.cases(datos2), ]
+    datavide=datos[complete.cases(datos), ]
     
     
     datos3 <- filter(datavide)
@@ -51,10 +48,6 @@ shinyServer(function(input, output) {
     
     
     
-    
-    #il faut demander aux collègues de miashs s'ils peuvent produire un "camembert" avec regroupement les données comme ceci :Privé = Sas+SARL+SA+Sté actions simplifiées unipersonnelle+entreprise individuelle+SA CA+SCA+Société anonyme d’économie mixte
-    #Public = Admin état+collectivité territoriale+établissement public+EPA+administration publique générale+commune et commune nouvelle+EPIC+etablissement public national scientif+établissement secondaire+FP territoriale
-    #Association = association
   })
   
 })

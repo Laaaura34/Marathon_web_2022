@@ -10,7 +10,7 @@ library(lmtest)
 library(plyr)
 library(plotly)
 
-datos <-read.csv("/Users/lisabeteille/Desktop/Marathon_web_2022/Codes/Graphiques/data/donnees_recruteurs.csv",sep = ";")
+datos <-read.csv("D:/Marathon_web_2022/Codes/Graphiques/data/donnees_recruteurs.csv",sep = ",", encoding = 'UTF-8')
 
 
 shinyUI(fluidPage(
