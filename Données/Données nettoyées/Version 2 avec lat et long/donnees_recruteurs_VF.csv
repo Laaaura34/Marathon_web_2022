@@ -1,0 +1,831 @@
+Annee,FORMATION,DATE_DEB_CONTRAT,DATE_FIN_CONTRAT,NOM_ENTREPRISE,CP_ENTREPRISE,FORME_JURIDIQUE_ENTREPRISE,VILLE_ENTREPRISE,Lat,Long,FORMATION_COMPLET,Type
+2016-2017,LP RDN (métiers de l'info),01/09/2016,29/09/2017,IFME,30000,,NIMES,"43,84493839","4,34806797",Licence professionnelle RDN, 
+2017-2017,LP RDN (métiers de l'info),31/08/2017,31/08/2017,CNRS MOY1100 ALPES,38042, ,GRENOBLE,"45,39351941","5,392599171",Licence professionnelle RDN, 
+2016-2017,LP RDN (métiers de l'info),29/08/2016,31/07/2017,LANGUEDOC ROUSSILLON LIVRE ET LECTURE,34090,Association,MONTPELLIER,"43,61344091","3,868516579",Licence professionnelle RDN,Association
+2016-2017,LP RDN (métiers de l'info),01/10/2016,31/08/2017,MIND AND GO,66000,,PERPIGNAN,"42,69659541","2,89936954",Licence professionnelle RDN, 
+2016-2018,M IDS ESSAP 1A,22/09/2016,30/08/2018,ADREA MUTUELLE,30018,,NIMES,"43,80676553","4,038673691",M1 Intervention et développement social parcours ESSAP, 
+2016-2017,M IDS ESSAP 2A,03/10/2016,31/08/2017,SAS VOY'AGIR,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Privé
+2016-2017,M IDS ESSAP 2A,03/10/2016,30/09/2017,ASSOCIATION DES PARALYSES DE FRANCE,30000,Association,NIMES,"43,84493839","4,34806797",M2 Intervention et développement social parcours ESSAP,Association
+2015-2017,M IDS ESSAP 2A,01/10/2015,30/09/2017,IMEIF,34080,,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP, 
+2015-2016,M IDS ESSAP 2A,01/12/2015,30/11/2016,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Public
+2016-2017,M IDS ESSAP 2A,03/10/2016,30/06/2017,SPIP 31,31603,,MURET CEDEX,#N/A,#N/A,M2 Intervention et développement social parcours ESSAP, 
+2016-2018,M IDS PIDT 1A,01/12/2016,30/09/2018,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M1 Intervention et développement social parcours PIDT,Public
+2015-2017,M IDS PIDT 2A,01/10/2015,30/09/2017,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M2 Intervention et développement social parcours PIDT,Public
+2015-2017,M IDS PIDT 2A,01/12/2015,30/09/2017,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M2 Intervention et développement social parcours PIDT,Public
+2016-2017,M IDS PIDT 2A,13/09/2016,31/08/2017,MAIRIE DE TOULOUSE,31000,Commune et Commune Nouvelle,TOULOUSE,"43,59638143","1,431672934",M2 Intervention et développement social parcours PIDT,Public
+2016-2017,M IDS PIDT 2A,03/10/2016,30/09/2017,DDT 84 VAUCLUSE,84000,Administration d'Etat,AVIGNON,"43,93524483","4,840715725",M2 Intervention et développement social parcours PIDT,Public
+2016-2018,M MISRH 1A,26/09/2016,05/10/2018,SAS URBANIS,30900,SAS,NIMES,"43,84493839","4,34806797",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 1A,29/08/2016,05/10/2018,EDF CNPE TRICASTIN,26130,SA,ST PAUL TROIS CHATEAUX,"44,37762309","4,806249456",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 1A,01/09/2016,05/10/2018,COMMUNE DE LE GRAU DU ROI,30240,Administration d'Etat,LE GRAU DU ROI,"43,50728109","4,166229487",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2016-2018,M MISRH 1A,01/07/2016,05/10/2018,TML EXPERTS CONSEILS,30900,SARL,NIMES,"43,84493839","4,34806797",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 1A,12/09/2016,05/10/2018,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 1A,12/09/2016,05/10/2018,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 1A,01/09/2016,05/10/2018,COLAS MM,34430,,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2015-2017,M MISRH 2A,28/09/2015,30/09/2017,LA POSTE,78180,,MONTIGNY LE BRETONNEUX,"48,77965878","2,029521945",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2015-2017,M MISRH 2A,14/09/2015,30/09/2017,TAM,34075,SA ,MONTPELLIER,"43,33115899","2,70406695",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2015-2017,M MISRH 2A,01/09/2015,30/09/2017,BANQUE POPULAIRE DU SUD,66000,,PERPIGNAN,"42,69659541","2,89936954",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2015-2017,M MISRH 2A,01/09/2015,30/09/2017,SNCF RESEAU,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2017,M MISRH 2A,15/10/2016,29/09/2017,RENAULT SAS,94600,SAS,CHOISY LE ROI,"48,76431512","2,417425182",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2015-2017,M MISRH 2A,26/10/2015,30/09/2017,NESTLE WATERS SUPPLY SUD,30310,SAS,VERGEZE,"43,73753604","4,233609905",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2015-2017,M MISRH 2A,14/09/2015,30/09/2017,EDF - CNPE DE GOLFECH,82401,SA,VALENCE D'AGEN CEDEX,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2017,M MISRH 2A,01/09/2016,30/09/2017,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2017,M MISRH 2A,19/09/2016,29/09/2017,POINT P MBM,,SAS,,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2017,M MISRH 2A,22/08/2016,29/09/2017,LA POSTE DSI BSCC,34070,SA CA,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2015-2017,M MISRH 2A,02/11/2015,30/09/2017,SHERPAS,13013,,MARSEILLE,"43,349278","5,433722387",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2016-2017,M2 CNO,01/09/2016,30/09/2017,CC LA DOMITIENNE,34370,Fonction publique territoriale,MAUREILHAN,"43,39763101","3,099684083",M2 Information-Communication parcours Communication numérique et organisations, 
+2016-2017,M2 CNO,01/09/2016,29/09/2017,ENEDIS,34070,ERL,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations, 
+2016-2017,M2 CNO,01/09/2016,29/09/2017,RECTORAT DE MONTPELLIER,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2016-2017,M2 CNO,11/07/2016,29/09/2017,VALÉRO FRANCE,34501,,Béziers cedex,#N/A,#N/A,M2 Information-Communication parcours Communication numérique et organisations, 
+2016-2017,M2 CNO,01/08/2016,30/09/2017,CREDIT AGRICOLE SUD MEDITERRANEE,66100,SA CA,PERPIGNAN,"42,69659541","2,89936954",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2016-2017,M2 CNO,01/09/2016,30/09/2017,AIRBUS CORPORATE JET CENTRE,31060,,TOULOUSE,"43,43958446","1,831645561",M2 Information-Communication parcours Communication numérique et organisations, 
+2016-2017,M2 CNO,19/09/2016,30/09/2017,ECOLE DES MINES D'ALES,30100,,ALES,"44,12500991","4,088285013",M2 Information-Communication parcours Communication numérique et organisations, 
+2016-2017,M2 COMPAC,01/10/2016,30/09/2017,PREFECTURE DES PYRENEES ORIENTALES,66100,Administration d'Etat,PERPIGNAN,"42,69659541","2,89936954","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2016-2017,M2 COMPAC,17/10/2016,16/10/2017,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2016-2017,M2 COMPAC,15/09/2016,29/09/2017,ORANGE,34000,SA,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Privé
+2016-2017,M2 COMPAC,01/09/2016,29/09/2017,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2016-2017,M2 CPO,01/09/2016,29/09/2017,DOMES PHARMA,63430,,PONT DU CHATEAU,"45,82982751","3,260552812",M2 Information-Communication parcours changement organisationnel et personnel , 
+2016-2017,M2 PTO,25/07/2016,25/11/2017,LA POSTE CENTRE FINANCIER,34000,SA CA,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2016-2017,M2 PTO,10/10/2016,09/10/2017,IVECO FRANCE,7104,,ANNONAY CEDEX,"44,78831372","4,455705992",M2 Psychologie sociale du travail et des organisations , 
+2016-2017,M2 PTO,24/10/2016,23/10/2017,SAS LE PETITES CANAILLES,92200,SAS,NEUILLY SUR SEINE,"48,88537197","2,266425847",M2 Psychologie sociale du travail et des organisations ,Privé
+2016-2017,M2 PTO,05/12/2016,30/09/2017,CENTRE HOSPITALIER DE MENDE,48000,Administration d'Etat,MENDE,"44,53990342","3,554042836",M2 Psychologie sociale du travail et des organisations ,Public
+2016-2017,M2 PTO,23/12/2016,22/12/2017,CDG 34,34184,Administration d'Etat,MONTPELLIER,"43,51371421","3,419564254",M2 Psychologie sociale du travail et des organisations ,Public
+2016-2017,M2 PTO,14/09/2016,30/09/2017,EI GROUPE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2016-2017,M2 PTO,05/09/2016,24/11/2017,LA POSTE CENTRE FINANCIER,34000,SA CA,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2017-2018,LP RDN,28/08/2017,31/07/2018,LANGUEDOC ROUSSILLON LIVRE ET LECTURE,34090,Association,MONTPELLIER,"43,61344091","3,868516579",Licence professionnelle RDN,Association
+2017-2019,M IDS ESSAP 1A,02/10/2017,30/09/2019,CENTRE SOCIAL SOLEIL SAINT BLAISE,75020,Association,PARIS 20E,"48,86318678","2,400819827",M1 Intervention et développement social parcours ESSAP,Association
+2017-2019,M IDS ESSAP 1A,01/12/2017,30/09/2019,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M1 Intervention et développement social parcours ESSAP,Public
+2017-2019,M IDS ESSAP 1A,01/12/2017,30/09/2019,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M1 Intervention et développement social parcours ESSAP,Public
+2017-2018,M IDS ESSAP 2A,01/11/2017,30/09/2018,DEPARTEMENT DU GARD,30900,Administration Publique Générale,NIMES,"43,84493839","4,34806797",M2 Intervention et développement social parcours ESSAP,Public
+2017-2019,M IDS PIDT 1A,28/08/2017,31/08/2019,RESEDA,30100,Association,ALES,"44,12500991","4,088285013",M1 Intervention et développement social parcours PIDT,Association
+2017-2019,M IDS PIDT 1A,04/09/2017,27/09/2019,CENTRE SOCIAL ET CULTUREL DANUBE,75019,SARL,PARIS 19E,"48,88686862","2,384694328",M1 Intervention et développement social parcours PIDT,Privé
+2017-2019,M IDS PIDT 1A,01/10/2017,30/09/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours PIDT,Public
+2017-2018,M IDS PIDT 2A,16/10/2017,15/10/2018,COMMUNAUTE D'AGGLO ALBIGEOIS,81160,Fonction publique territoriale,SAINT JUERY,"43,96388155","2,225870136",M2 Intervention et développement social parcours PIDT, 
+2016-2018,M IDS PIDT 2A,01/12/2016,30/09/2018,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M2 Intervention et développement social parcours PIDT,Public
+2017-2019,M MIASHS 1A,01/10/2017,30/09/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2017-2019,M MIASHS 1A,04/09/2017,30/08/2019,SNCF MOBILITES,92000, ,NANTERRE,"48,89607013","2,206713464",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2017-2019,M MIASHS 1A,09/10/2017,31/08/2019,LABORATOIRE CHAUVIN,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2019,M MIASHS 1A,02/01/2018,31/08/2019,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2017-2019,M MIASHS 1A,06/09/2017,30/08/2019,ORANGE,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2019,M MIASHS 1A,04/09/2017,30/08/2019,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2018,M MIASHS 2A,04/09/2017,31/08/2018,SEENOVATE,75017,SAS,PARIS 17E,"48,88733717","2,307485559",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2018,M MIASHS 2A,25/09/2017,31/08/2018,SNCF,34000, ,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2017-2018,M MIASHS 2A,04/09/2017,31/08/2018,SEENOVATE,75017,SAS,PARIS 17E,"48,88733717","2,307485559",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2018,M MIASHS 2A,01/09/2017,31/08/2018,AUDRNA,30023,Association,Nîmes cedex 1,"43,79143612","4,12868797",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Association
+2017-2019,M MISRH 1A,20/11/2017,19/11/2019,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2017-2018,M MISRH 1A,01/10/2017,30/09/2018,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2017-2019,M MISRH 1A,04/09/2017,04/10/2019,ENEDIS,34070,ERL,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2017-2019,M MISRH 1A,04/09/2017,30/09/2019,EDF CNPE DE CRUAS,7350,SA CA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2019,M MISRH 1A,01/09/2017,30/09/2019,COMMUNAUTÉ D'AGGLOMÉRATION DE NÎMES,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2017-2019,M MISRH 1A,26/09/2017,30/09/2019,EDF CNPE DE CRUAS,7350,SA CA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2019,M MISRH 1A,04/09/2017,30/09/2019,POINT P MBM,,SAS,,#N/A,#N/A,M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2019,M MISRH 1A,01/10/2017,30/09/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2017-2019,M MISRH 1A,04/09/2017,30/09/2019,SNCF RESEAU,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 2A,26/09/2016,05/10/2018,SAS URBANIS,30900,SAS,NIMES,"43,84493839","4,34806797",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2018,M MISRH 2A,28/08/2017,27/09/2018,IPSIDE,31100,SAS,TOULOUSE,"43,59638143","1,431672934",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2018,M MISRH 2A,23/09/2017,30/09/2018,ATOS MANAGEMENT FRANCE,95870,SAS,BEZONS,"48,92598101","2,211333878",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 2A,01/07/2016,05/10/2018,TML EXPERTS CONSEILS,30900,SARL,NIMES,"43,84493839","4,34806797",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 2A,12/09/2016,05/10/2018,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2016-2018,M MISRH 2A,12/09/2016,05/10/2018,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2018,M MISRH 2A,01/08/2017,12/10/2018,TAM,34075,SA ,MONTPELLIER,"43,33115899","2,70406695",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2017-2018,M MISRH 2A,20/09/2017,28/09/2018,CMA CGM,13002,,MARSEILLE 2E,"43,31269642","5,363649833",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2016-2018,M MISRH 2A,01/09/2016,05/10/2018,COLAS MM,34430,,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2017-2018,M2 CNO,16/10/2017,28/09/2018,ONISEP DELEGATION LR,34064,EPA,MONTPELLIER CEDEX 2,"43,87168909","3,31157474",M2 Information-Communication parcours Communication numérique et organisations,Public
+2017-2018,M2 CNO,21/08/2017,31/08/2018,CREAVEA,34740,SARL,VENDARGUES,"43,66104575","3,962830331",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2017-2018,M2 CNO,25/09/2017,28/09/2018,RECTORAT DE MONTPELLIER,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2017-2018,M2 CNO,02/10/2017,28/09/2018,PREFECTURE DU GARD,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797",M2 Information-Communication parcours Communication numérique et organisations,Public
+2017-2018,M2 CNO,04/09/2017,28/09/2018,NETHEOS,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2017-2018,M2 CNO,01/08/2017,28/09/2018,INNO'VO,34370,SAS,MAUREILHAN,"43,39763101","3,099684083",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2017-2018,M2 CNO,16/10/2017,28/09/2018,COMUE LR-UNIVIVERSITÉ,34197,"Etablissement Public National scientifique, culturel et professionnel",MONTPELLIER CEDEX 85,"43,57492509","3,398317704",M2 Information-Communication parcours Communication numérique et organisations, 
+2017-2018,M2 CNO,28/08/2017,28/09/2018,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2017-2018,M2 COMPAC,02/10/2017,28/09/2018,PREFECTURE DES PYRENEES ORIENTALES,66100,Administration d'Etat,PERPIGNAN,"42,69659541","2,89936954","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2017-2018,M2 COMPAC,27/11/2017,28/09/2018,SSM RESTAURATION,66000,SARL,PERPIGNAN,"42,69659541","2,89936954","M2 Information-Communication parcours Communication publique, associative et culturelle",Privé
+2017-2018,M2 COMPAC,04/09/2017,28/09/2018,MAIRIE DE NARBONNE,11100,Administration d'Etat,NARBONNE,"43,11764167","2,97718129","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2017-2018,M2 COMPAC,01/09/2017,28/09/2018,SOURDOREILLE PRODUCTION,93400,SARL,SAINT OUEN,"48,90980658","2,332570422","M2 Information-Communication parcours Communication publique, associative et culturelle",Privé
+2017-2018,M2 COMPAC,04/09/2017,28/09/2018,BIOVIVA EDITIONS,34000,SARL,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Privé
+2017-2018,M2 COMPAC,01/09/2017,31/08/2018,BORDEAUX METROPOLE,33000,Etablissement public,BORDEAUX,"44,85724454","-0,5736967812","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2017-2018,M2 COMPAC,04/09/2017,28/09/2018,CAPITOLE STUDIOS,84130,SA,LE PONTET,"43,96839035","4,865495908","M2 Information-Communication parcours Communication publique, associative et culturelle",Privé
+2017-2018,M2 COMPAC,02/10/2017,28/09/2018,DEPARTEMENT DE L'AUDE,11000,Collectivité Territoriale,CARCASSONNE,"43,21409862","2,407732717","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2017-2018,M2 COMPAC,04/09/2017,30/09/2018,MONTPELLIER DANSE,34960,Association,MONTPELLIER,#N/A,#N/A,"M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2017-2018,M2 COMPAC,04/09/2017,12/10/2018,ENEDIS,34070,ERL,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle", 
+2017-2018,M2 COMPAC,04/09/2017,28/09/2018,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2017-2018,M2 COMPAC,01/10/2017,30/09/2018,PAYS DE L'OR AGGLOMERATION,34130,Commune et Commune Nouvelle,MAUGUIO,"43,61843365","4,063979436","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2017-2018,M2 CPO,16/10/2017,31/10/2018,CAISSE DES DEPOTS ET CONSIGNATIONS,33059,Etablissement public,BORDEAUX,"44,77732526","-0,2549972619",M2 Information-Communication parcours changement organisationnel et personnel ,Public
+2017-2018,M2 CPO,04/09/2017,28/09/2018,GRID SOLUTIONS,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel ,Privé
+2017-2018,M2 GIMD,11/09/2017,28/09/2018,ENSAM,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Documentation parcours gestion de l'information et mediation documentaire : métiers des bibliothèques et de la documentation (GIMD) ,Public
+2017-2018,M2 GIMD,01/09/2017,30/09/2018,MINISTERE DE LA CULTURE,75033,Administration d'Etat,PARIS CEDEX 01,#N/A,#N/A,M2 Information-Documentation parcours gestion de l'information et mediation documentaire : métiers des bibliothèques et de la documentation (GIMD) ,Public
+2017-2018,M2 GIMD,01/11/2017,28/09/2018,MONTPELLIER SUPAGRO,34000,EPA,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Documentation parcours gestion de l'information et mediation documentaire : métiers des bibliothèques et de la documentation (GIMD) ,Public
+2017-2018,M2 GIMD,01/09/2017,28/09/2018,ADECCO,34430,SASU,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M2 Information-Documentation parcours gestion de l'information et mediation documentaire : métiers des bibliothèques et de la documentation (GIMD) , 
+2017-2018,M2 HUMANUM,01/12/2017,27/11/2018,AFPA ENTREPRISES,93100,EPIC,MONTREUIL,"48,86331751","2,448162119",M2 Humanités Numériques,Public
+2017-2018,M2 HUMANUM,04/07/2017,31/10/2018,ETUDES ET CHANTIERS,35000,Association,RENNES,"48,11197912","-1,681864491",M2 Humanités Numériques,Association
+2017-2018,M2 HUMANUM,01/09/2017,28/09/2018,TRALALERE,75003,SAS,PARIS 3E,"48,86305413","2,359361059",M2 Humanités Numériques,Privé
+2017-2018,M2 MAVINUM,21/09/2017,21/09/2018,PIERRE FABRE,81106,SA,CASTRES CEDEX,"43,849982","1,64948464","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2017-2018,M2 MAVINUM,01/10/2017,30/09/2018,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Public
+2017-2018,M2 PTO,07/11/2017,06/11/2018,CENTRE HOSPITALIER DE MENDE,48000,Administration d'Etat,MENDE,"44,53990342","3,554042836",M2 Psychologie sociale du travail et des organisations ,Public
+2017-2018,M2 PTO,11/09/2017,07/09/2018,ECLIPSE ISTEC,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2017-2018,M2 PTO,11/09/2017,10/09/2018,LA POSTE CENTRE FINANCIER,34000,SA CA,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2017-2018,M2 PTO,04/09/2017,31/08/2018,BNP PARIBAS SECURITIES SERVICES,93500,SCA,PANTIN,"48,89830939","2,408721475",M2 Psychologie sociale du travail et des organisations ,Privé
+2017-2018,M2 PTO,11/12/2017,28/09/2018,M-PEARL,6600,SASU,ANTIBES,"43,58746515","7,106354183",M2 Psychologie sociale du travail et des organisations , 
+2018-2019,DUT SAP,03/09/2018,30/08/2020,A2MICILE - AZAE NARBONNE,11200,SARL,LEZIGNAN CORBIERES,"43,24583407","2,770623578",DUT Carrières Sociales option Services à la personne,Privé
+2018-2019,LP RDN,03/09/2018,31/07/2019,OCCITANIE LIVRE & LECTURE,31000,Association,TOULOUSE,"43,59638143","1,431672934",Licence professionnelle RDN,Association
+2018-2019,LP RDN,03/09/2018,30/08/2019,CNRS UMR5138 ARCHEOMETRIE ET ARCHEOLOG,69007, ,LYON 07,"45,73340984","4,837584957",Licence professionnelle RDN, 
+2018-2019,LP RDN,01/09/2018,31/08/2019,CNRS MOY1100 ALPES,38042, ,GRENOBLE,"45,39351941","5,392599171",Licence professionnelle RDN, 
+2018-2020,M IDS ESSAP 1A,06/11/2018,25/09/2020,PLATE FORME CREATION D'ACTIVITE DEP 34,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours ESSAP,Association
+2018-2020,M IDS ESSAP 1A,17/09/2018,30/09/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours ESSAP,Public
+2018-2019,M IDS ESSAP 2A,01/10/2018,27/09/2019,ADVAH,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Association
+2018-2020,M IDS PIDT 1A,17/09/2018,30/09/2020,APPRENTIS D'AUTEUIL - IMPACT JEUNES,75016,Fondation,PARIS,"48,86039876","2,262099559",M1 Intervention et développement social parcours PIDT, 
+2018-2020,M IDS PIDT 1A,20/08/2018,25/09/2020,DÉPARTEMENT DE LOIRE-ATLANTIQUE,44041,Administration d'Etat,NANTES,"47,08911048","-1,596195347",M1 Intervention et développement social parcours PIDT,Public
+2018-2020,M IDS PIDT 1A,01/09/2018,30/08/2020,ASS RESEAU EN SCENE,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours PIDT,Association
+2017-2019,M IDS PIDT 2A,02/10/2017,30/09/2019,CENTRE SOCIAL SOLEIL SAINT BLAISE,75020,Association,PARIS 20E,"48,86318678","2,400819827",M2 Intervention et développement social parcours PIDT,Association
+2017-2019,M IDS PIDT 2A,28/08/2017,31/08/2019,RESEDA,30100,Association,ALES,"44,12500991","4,088285013",M2 Intervention et développement social parcours PIDT,Association
+2017-2019,M IDS PIDT 2A,01/12/2017,30/09/2019,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M2 Intervention et développement social parcours PIDT,Public
+2017-2019,M IDS PIDT 2A,04/09/2017,27/09/2019,CENTRE SOCIAL ET CULTUREL DANUBE,75019,SARL,PARIS 19E,"48,88686862","2,384694328",M2 Intervention et développement social parcours PIDT,Privé
+2017-2019,M IDS PIDT 2A,01/10/2017,30/09/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Public
+2017-2019,M IDS PIDT 2A,01/12/2017,30/09/2019,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M2 Intervention et développement social parcours PIDT,Public
+2018-2019,M IDS PIDT 2A,01/07/2018,30/09/2019,MISSION LOCALE JEUNE MONTPELLIER,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2018-2020,M MIASHS 1A,10/09/2018,10/09/2020,MILLIONROADS,84000,SAS,AVIGNON,"43,93524483","4,840715725",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,03/09/2018,30/08/2020,INST NATIONAL RECHERCHE AGRONOMIQUE,34070,EPST,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2018-2020,M MIASHS 1A,01/10/2018,31/08/2020,BANQUE POPULAIRE DU SUD,66000,,PERPIGNAN,"42,69659541","2,89936954",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 1A,01/01/2019,31/08/2020,MAIRIE DE NANCY,54035,Commune et Commune Nouvelle,NANCY,"48,64258087","6,813211035",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2018-2020,M MIASHS 1A,03/09/2018,28/08/2020,FCS FORMATION,93100,ERL,MONTREUIL,"48,86331751","2,448162119",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2018-2020,M MIASHS 1A,17/09/2018,31/08/2020,OLYSTIC,75008,SAS,PARIS 8,"48,87252727","2,31258256",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,03/09/2018,02/09/2020,GROUPAMA SUPPORTS ET SERVICES,34170,GIE,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2018-2020,M MIASHS 1A,03/09/2018,28/08/2020,PRICEWATERHOUSECOOPERS ADVISORY,92200,SAS,NEUILLY SUR SEINE,"48,88537197","2,266425847",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,03/09/2018,31/08/2020,MEDIAMETRIE,92300,SA,LEVALLOIS PERRET,"48,89507167","2,286882681",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,02/09/2019,04/09/2020,PRICEWATERHOUSECOOPERS ADVISORY,92200,SAS,NEUILLY SUR SEINE,"48,88537197","2,266425847",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,01/10/2018,30/09/2020,AXONAL-BIOSTATEM,92000,SAS,NANTERRE,"48,89607013","2,206713464",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,07/01/2019,28/08/2020,ACELYS INFORMATIQUE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,29/10/2018,31/08/2020,VESTAS FRANCE,34470,SAS,PEROLS,"43,56066427","3,951757085",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,03/09/2018,31/08/2020,ASSOCIATION DES MOYENS ASSURANCES,49906,Association,ANGERS CEDEX 9,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Association
+2018-2020,M MIASHS 1A,03/09/2018,28/08/2020,REPORT ONE,81150,SAS,TERSSAC,"43,95321508","2,029954569",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,24/09/2018,31/08/2020,FAURECIA INTERIEUR INDUSTRIE,60114,SAS,MERU,"49,53419809","1,815311798",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,03/09/2018,28/08/2020,EDF SA DIRECTION COMMERCE SUD OUEST,31100,SA,TOULOUSE,"43,59638143","1,431672934",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,01/10/2018,30/09/2020,AIR FRANCE,93290,SA CA,TREMBLAY EN FRANCE,"48,97843041","2,554685015",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,10/09/2018,11/09/2020,SNCF MOBILITES,93200,SIEGE,SAINT DENIS,"48,92956505","2,359242998",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2018-2020,M MIASHS 1A,03/09/2018,31/08/2020,LISI AEROSPACE,75583,,PARIS,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2018-2020,M MIASHS 1A,03/09/2018,28/08/2020,BALEA,34270,SAS,SAINT MATHIEU DE TREVIERS,"43,76409293","3,79487939",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,12/11/2018,28/08/2020,PRICEWATERHOUSECOOPERS ADVISORY,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,03/09/2018,28/08/2020,TELLMEPLUS,34980,SA,ST CLEMENT DE RIVIERE,"43,6724651","3,779494325",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MIASHS 1A,20/08/2018,20/08/2020,GEOMATYS,34934,SAS,MONTPELLIER,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2019,M MIASHS 2A,01/10/2017,30/09/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2018-2019,M MIASHS 2A,01/09/2018,31/08/2019,AIRBUS OPERATIONS SAS TOULOUSE,31000,SASU,TOULOUSE,"43,59638143","1,431672934",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2017-2019,M MIASHS 2A,09/10/2017,31/08/2019,LABORATOIRE CHAUVIN,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2019,M MIASHS 2A,02/01/2018,31/08/2019,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2018-2019,M MIASHS 2A,25/10/2018,31/08/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2018-2019,M MIASHS 2A,01/09/2018,31/08/2019,AIRBUS OPERATIONS SAS TOULOUSE,31000,SASU,TOULOUSE,"43,59638143","1,431672934",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2018-2019,M MIASHS 2A,17/09/2018,31/08/2019,SEENOVATE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2019,M MIASHS 2A,06/09/2017,30/08/2019,ORANGE,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2017-2019,M MIASHS 2A,04/09/2017,30/08/2019,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2018-2020,M MISRH 1A,03/09/2018,02/10/2020,CLINIQUE SAINT JEAN,34093,SAS,MONTPELLIER CEDEX 05,"43,6690497","3,221016971",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,06/08/2018,02/10/2020,LA POSTE,34391,SA CA,MONTPELLIER CEDEX 5,#N/A,#N/A,M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,03/09/2018,02/10/2020,MERLIN GERIN ALES (SHNEIDER),30319,SAS,ALES,"44,03818981","4,343372874",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,03/09/2018,02/10/2020,GMCO,34970,SAS,LATTES,"43,56385941","3,902262229",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,10/09/2018,31/08/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2018-2020,M MISRH 1A,06/09/2018,02/10/2020,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,22/10/2018,30/09/2020,DUC,30730,SA,SAINT BAUZELY,"43,90727446","4,180545205",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,01/09/2018,31/08/2020,VORTEX,34430,SAS,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,06/09/2018,02/10/2020,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,29/11/2018,02/10/2020,AFPA ENTREPRISES,34000,EPIC,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2018-2020,M MISRH 1A,01/09/2018,02/10/2020,TELESPAZIO FRANCE,31023,SAS,TOULOUSE,"43,19003534","0,813417937",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 1A,03/09/2018,02/10/2020,R2M EXPERTISE,34080,SASU,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2017-2019,M MISRH 2A,20/11/2017,19/11/2019,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2017-2019,M MISRH 2A,04/09/2017,04/10/2019,ENEDIS,34070,ERL,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2017-2019,M MISRH 2A,04/09/2017,30/09/2019,EDF CNPE DE CRUAS,7350,SA CA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2019,M MISRH 2A,03/09/2018,30/09/2019,SIRH CONSULTING,34920,SARL,LE CRES,"43,65409787","3,936088512",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2017-2019,M MISRH 2A,01/09/2017,30/09/2019,COMMUNAUTÉ D'AGGLOMÉRATION DE NÎMES,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2017-2019,M MISRH 2A,04/09/2017,30/09/2019,SNCF RESEAU,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2019,M MISRH 2A,01/09/2018,28/09/2019,PSA AUTOMOBILES,25600,SA,SOCHAUX,"47,52767976","6,865155317",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2019,M MISRH 2A,15/10/2018,27/09/2019,TAM,34075,SA ,MONTPELLIER,"43,33115899","2,70406695",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2018-2019,M MISRH 2A,01/10/2018,27/09/2019,MANPOWER,30100,SAS,ALES,"44,12500991","4,088285013",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2019,M MISRH 2A,01/10/2018,30/09/2019,CARREFOUR HYPERMARCHES,34970,SAS,LATTES,"43,56385941","3,902262229",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2019,M MISRH 2A,15/10/2018,27/09/2019,MAGASINS GALERIES LAFAYETTE,34960,SAS,MONTPELLIER,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2019,M2 CNO,03/09/2018,20/09/2019,SOC D' EXPLOITATION DE LA TOUR EIFFEL,75015,Société Publique Local,PARIS 15,"48,84015542","2,293559372",M2 Information-Communication parcours Communication numérique et organisations, 
+2018-2019,M2 CNO,17/09/2018,06/09/2019,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2018-2019,M2 CNO,10/09/2018,30/09/2019,MÉTROPOLE DE LYON,69003,Administration d'Etat,LYON 03,"45,75335525","4,86918522",M2 Information-Communication parcours Communication numérique et organisations,Public
+2018-2019,M2 CNO,15/10/2018,30/09/2019,THALES LAS FRANCE,78995,SAS,ELANCOURT CEDEX,#N/A,#N/A,M2 Information-Communication parcours Communication numérique et organisations,Privé
+2018-2019,M2 CNO,01/10/2018,30/09/2019,CREPS DE MONTPELLIER,34090,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2018-2019,M2 CNO,03/09/2018,20/09/2019,OPERA ORCHESTRE NATIONAL MONTPELLIER,34967,Association,MONTPELLIER,#N/A,#N/A,M2 Information-Communication parcours Communication numérique et organisations,Association
+2018-2019,M2 CNO,15/10/2018,11/10/2019,ONISEP DELEGATION LR,34064,EPA,MONTPELLIER CEDEX 2,"43,87168909","3,31157474",M2 Information-Communication parcours Communication numérique et organisations,Public
+2018-2019,M2 CNO,24/09/2018,20/09/2019,PREFECTURE DU GARD,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797",M2 Information-Communication parcours Communication numérique et organisations,Public
+2018-2019,M2 CNO,24/09/2018,20/09/2019,CIE IBM FRANCE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2018-2019,M2 CNO,24/09/2018,23/09/2019,BORDEAUX METROPOLE,33000,Etablissement public,BORDEAUX,"44,85724454","-0,5736967812",M2 Information-Communication parcours Communication numérique et organisations,Public
+2018-2019,M2 COMPAC,01/10/2018,30/09/2019,COMUE LR-UNIVIVERSITÉ,34197,"Etablissement Public National scientifique, culturel et professionnel",MONTPELLIER CEDEX 85,"43,57492509","3,398317704","M2 Information-Communication parcours Communication publique, associative et culturelle", 
+2018-2019,M2 COMPAC,17/09/2018,06/09/2019,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2018-2019,M2 COMPAC,01/10/2018,30/09/2019,PREFECTURE DES PYRENEES ORIENTALES,66100,Administration d'Etat,PERPIGNAN,"42,69659541","2,89936954","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2018-2019,M2 COMPAC,03/09/2018,20/09/2019,CC LA DOMITIENNE,34370,Fonction publique territoriale,MAUREILHAN,"43,39763101","3,099684083","M2 Information-Communication parcours Communication publique, associative et culturelle", 
+2018-2019,M2 COMPAC,24/09/2018,30/09/2019,REGION OCCITANIE PYRENEES MEDITERRANEE,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2018-2019,M2 COMPAC,03/09/2018,20/09/2019,RECTORAT DE MONTPELLIER,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2018-2019,M2 CPO,01/09/2018,06/09/2019,REGION DE GENDARMERIE LANGUEDOC ROUSSI,34070,GIE,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel , 
+2018-2019,M2 CPO,03/09/2018,29/09/2019,SE IT FRANCE,38334,SAS,MONTBONNOT ST MARTIN,"45,16812066","5,909911498",M2 Information-Communication parcours changement organisationnel et personnel ,Privé
+2018-2019,M2 CPO,10/10/2018,30/09/2019,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel ,Public
+2018-2019,M2 GIMD,17/10/2018,16/10/2019,ENSEA,95800,EPA,CERGY,"49,04011316","2,050821237",M2 Information-Documentation parcours gestion de l'information et mediation documentaire : métiers des bibliothèques et de la documentation (GIMD) ,Public
+2018-2019,M2 HUMANUM,24/09/2018,23/09/2019,EPLEFPA,30230,Administration d'Etat,RODILHAN,"43,80161846","4,434484254",M2 Humanités Numériques,Public
+2018-2019,M2 HUMANUM,07/09/2018,30/09/2019,RECTORAT DE MONTPELLIER,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Humanités Numériques,Public
+2018-2019,M2 HUMANUM,13/12/2018,12/12/2019,LA POSTE CENTRE DEV NUMERIQUE FORM,34090,,MONTPELLIER,"43,61344091","3,868516579",M2 Humanités Numériques, 
+2018-2019,M2 HUMANUM,01/10/2018,31/10/2019,MINISTERE DES ARMEES,37000,,TOURS,"47,39863823","0,6965263764",M2 Humanités Numériques, 
+2018-2019,M2 PTO,03/09/2018,27/09/2019,LA POSTE CENTRE FINANCIER,34000,SA CA,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2018-2019,M2 PTO,03/09/2018,30/09/2019,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",M2 Psychologie sociale du travail et des organisations ,Public
+2018-2019,M2 PTO,22/10/2018,27/09/2019,UBISOFT,34170,SAS,MONTPELLIER,"43,63802188","3,91265416",M2 Psychologie sociale du travail et des organisations ,Privé
+2018-2019,M2 PTO,03/09/2018,30/09/2019,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",M2 Psychologie sociale du travail et des organisations ,Public
+2018-2019,M2 PTO,27/08/2018,23/08/2019,KTK FRANCE SEATS,42160,SAS,ANDREZIEUX BOUTHEON,"45,53499131","4,27650427",M2 Psychologie sociale du travail et des organisations ,Privé
+2018-2019,M2 PTO,24/09/2018,30/09/2019,EI GROUPE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2018-2019,M2 PTO,29/10/2018,28/10/2019,BTP CFA LANGUEDOC ROUSSILLON,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Association
+2019-2020,DUT SAP 1A,01/09/2019,31/08/2021,ADAPA,1000,,BOURG EN BRESSE,"46,20515204","5,246021255",DUT carrières sociales option service à la personne 1ere annee, 
+2019-2020,DUT SAP 2A,03/09/2018,30/08/2020,A2MICILE - AZAE NARBONNE,11200,SARL,LEZIGNAN CORBIERES,"43,24583407","2,770623578",DUT carrières sociales option service à la personne 2eme annee,Privé
+2019-2020,LP IS APS,01/09/2019,31/08/2020,CCAS DE FRONTIGNAN,34110,,FRONTIGNAN,"43,44824589","3,749235224",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie, 
+2019-2020,LP RDN,27/08/2019,31/07/2020,OCCITANIE LIVRE & LECTURE,31000,Association,TOULOUSE,"43,59638143","1,431672934",Licence professionnelle RDN,Association
+2019-2020,M CNO 1A,16/10/2019,06/09/2021,PREFECTURE DES PYRENEES ORIENTALES,66100,Administration d'Etat,PERPIGNAN,"42,69659541","2,89936954",M1 Information-Communication parcours Communication numérique et organisations,Public
+2019-2020,M CNO 1A,01/12/2019,30/11/2021,AGENCE REGIONALE DE SANTE OCCITANIE,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Public
+2019-2020,M CNO 2A,09/09/2019,07/09/2020,ORANGE,6560,SA,VALBONNE,"43,62828833","7,029544767",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2019-2020,M CNO 2A,06/09/2019,17/09/2021,AQUA-VALLEY PÔLE EAU,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Association
+2019-2020,M CNO 2A,02/09/2019,07/09/2020,DEPARTEMENT DE L'AUDE,11000,Collectivité Territoriale,CARCASSONNE,"43,21409862","2,407732717",M2 Information-Communication parcours Communication numérique et organisations,Public
+2019-2020,M CNO 2A,16/09/2019,11/09/2020,J PIERRE LAVAILL CONSEILS,34300,ERL,AGDE,"43,30912912","3,484479031",M2 Information-Communication parcours Communication numérique et organisations, 
+2019-2020,M CNO 2A,01/09/2019,31/08/2020,SO COCOON,34970,,LATTES,"43,56385941","3,902262229",M2 Information-Communication parcours Communication numérique et organisations, 
+2019-2020,M CNO 2A,28/10/2019,07/09/2020,EPCC MOCO,34000,EPCC,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations, 
+2019-2020,M CNO 2A,02/09/2019,07/09/2020,MEDISUR,13590,SAS,MEYREUIL,"43,49105225","5,500628119",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2019-2020,M CNO 2A,09/09/2019,08/09/2020,MÉTROPOLE DE LYON,69003,Administration d'Etat,LYON 03,"45,75335525","4,86918522",M2 Information-Communication parcours Communication numérique et organisations,Public
+2019-2020,M COMPAC 1A,02/09/2019,06/09/2021,MERCY SHIPS,1210,Association,FERNEY VOLTAIRE,"46,25197892","6,108264038","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2019-2020,M COMPAC 1A,02/09/2019,06/09/2021,PREFECTURE DU GARD,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2019-2020,M COMPAC 1A,02/09/2019,01/09/2021,SGAMI SUD,13014,Administration d'Etat,MARSEILLE,"43,34550181","5,394089158","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2019-2020,M COMPAC 1A,01/01/2020,06/09/2021,CHU ROYANS,17200,Administration d'Etat,ROYAN CEDEX,"45,63465742","-1,017914034","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2019-2020,M COMPAC 2A,11/09/2019,11/09/2020,PROMETHEE PRODUCTIONS,75009,SAS,PARIS,"48,87689616","2,337460241","M2 Information-Communication parcours Communication publique, associative et culturelle",Privé
+2019-2020,M COMPAC 2A,02/09/2019,30/09/2020,REGION OCCITANIE PYRENEES MEDITERRANEE,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2019-2020,M CPO 1A,25/11/2019,30/09/2021,AIRDIE,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours changement organisationnel et personnel ,Association
+2019-2020,M CPO 2A,02/09/2019,31/08/2020,SAFRAN ELECTRONICS & DEFENSE,75015,SA CA,PARIS 15,"48,84015542","2,293559372",M2 Information-Communication parcours changement organisationnel et personnel ,Privé
+2019-2020,M CPO 2A,01/09/2019,31/08/2020,ONISEP DELEGATION LR,34064,EPA,MONTPELLIER CEDEX 2,"43,87168909","3,31157474",M2 Information-Communication parcours changement organisationnel et personnel ,Public
+2019-2020,M CPO 2A,01/08/2019,31/08/2020,CAPTURS,31670,SAS,LABEGE,"43,53913772","1,520620711",M2 Information-Communication parcours changement organisationnel et personnel ,Privé
+2019-2020,M GIMD 1A,14/10/2019,30/09/2021,INSTITUT NATIONAL DE L'AUDIOVISUEL,94360,EPIC,BRY SUR MARNE,"48,83840957","2,523196576",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2019-2020,M GIMD 1A,03/10/2019,30/09/2021,EDF CNPE DE DAMPIERRE,45570,SA,OUZOUER SUR LOIRE,"47,76127445","2,543038043",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Privé
+2019-2020,M GIMD 2A,01/09/2019,30/09/2020,ENSAM,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2019-2020,M GRH SOI 2A,14/10/2019,30/09/2020,ADECCO TRAINING,34470,,PEROLS,"43,56066427","3,951757085",M2 Gestion des Ressources Humaines parcours Sciences des Organisations et des Institutions, 
+2019-2020,M HUMANUM 2A,03/10/2019,29/09/2020,INALCO,75013,,PARIS,"48,82871768","2,362468229",M2 Humanités Numériques, 
+2019-2020,M HUMANUM 2A,25/09/2019,29/09/2020,SEC GENERAL DES MINISTÈRES SOCIAUX,75007,,PARIS,"48,8560826","2,312438688",M2 Humanités Numériques, 
+2019-2020,M IDS ESSAP 2A,01/09/2018,30/08/2020,ASS RESEAU EN SCENE,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Association
+2019-2020,M IDS ESSAP 2A,01/10/2019,30/09/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Public
+2019-2020,M IDS ESSAP 2A,07/10/2019,30/09/2020,ASSOCIATION CONVERGENCES 34,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Association
+2019-2020,M IDS ESSAP 2A,30/09/2019,30/09/2020,CRIJ OCCITANIE,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Association
+2019-2020,M IDS PIDT 1A,01/10/2019,30/09/2021,BOUILLON CUBE,34380,Association,CAUSSE DE LA SELLE,"43,72495231","3,674207203",M1 Intervention et développement social parcours PIDT,Association
+2019-2020,M IDS PIDT 1A,07/10/2019,30/09/2021,ASSOCIATION DEFI,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours PIDT,Association
+2019-2020,M IDS PIDT 2A,01/11/2019,31/10/2020,DRDJSCS PACA,13006,,MARSEILLE 06,"43,28709895","5,381047854",M2 Intervention et développement social parcours PIDT, 
+2019-2020,M IDS PIDT 2A,20/08/2018,25/09/2020,DÉPARTEMENT DE LOIRE-ATLANTIQUE,44041,Administration d'Etat,NANTES,"47,08911048","-1,596195347",M2 Intervention et développement social parcours PIDT,Public
+2019-2020,M IDS PIDT 2A,01/10/2019,30/09/2020,DISP TOULOUSE SUD,31015,Administration d'Etat,TOULOUSE CEDEX 6,"42,89243792","0,7155166244",M2 Intervention et développement social parcours PIDT,Public
+2019-2020,M IDS PIDT 2A,01/10/2019,30/09/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Public
+2019-2020,M IDS PIDT 2A,17/09/2018,30/09/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Public
+2019-2020,M MAVINUM 2A,25/09/2019,30/09/2020,DEPARTEMENT DE LA VENDEE,85000,Fonction publique territoriale,LA ROCHE SUR YON,"46,7104765","-1,461296614","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)", 
+2019-2020,M MIASHS 1A,01/10/2018,30/08/2021,ESSILOR INTERNATIONAL,94000,SAS,CRETEIL,"48,78374018","2,454635304",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,01/09/2020,31/08/2021,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2019-2020,M MIASHS 1A,01/10/2019,28/08/2021,BOUYGUES IMMOBILIER,13002,SAS,MARSEILLE 02,"43,31269642","5,363649833",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,04/11/2019,28/08/2021,PRICEWATERHOUSECOOPERS ADVISORY,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,04/11/2019,28/08/2021,SANOFI CHIMIE,30390,SAS,ARAMON,"43,90419902","4,683020019",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,01/10/2019,31/08/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2019-2020,M MIASHS 1A,02/09/2019,31/08/2021,COMWATT,34960,SAS,MONTPELLIER,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,21/10/2019,28/08/2021,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,31/08/2020,01/09/2021,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,11/09/2019,31/08/2021,MUTEX,92327,SA,CHATILLON,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,09/09/2019,28/08/2021,INETUM,93400,SA CA,ST OUEN SUR SEINE,"48,90980658","2,332570422",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,02/09/2019,31/08/2021,PRIVATESPORTSHOP VENDARGUES,34740,SAS,VENDARGUES,"43,66104575","3,962830331",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,02/09/2019,24/09/2021,CAISSE REGIONALE DU CREDIT AGRICOLE DU,34970,SA,LATTES,"43,56385941","3,902262229",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,01/10/2019,28/08/2021,CREDIT AGRICOLE SA,92120,SA,MONTROUGE,"48,81530322","2,316489214",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,09/09/2019,31/08/2021,SOGETREL,92130,SAS,ISSY LES MOULINEAUX,"48,82347434","2,264498233",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,02/09/2019,31/08/2021,PICKEOS,30820,SAS,CAVEIRAC,"43,83386686","4,267857962",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,01/09/2019,31/08/2021,RECTORAT DE MONTPELLIER,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2019-2020,M MIASHS 1A,01/10/2019,30/09/2021,BNP PARIBAS PERSONAL FINANCE,92300,SA CA,LEVALLOIS PERRET,"48,89507167","2,286882681",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 1A,02/09/2019,31/08/2021,GROUPAMA SUPPORTS ET SERVICES,34170,GIE,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 1A,30/09/2019,31/08/2021,AIRBUS OPERATIONS SAS TOULOUSE,31000,SASU,TOULOUSE,"43,59638143","1,431672934",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,10/09/2018,10/09/2020,MILLIONROADS,84000,SAS,AVIGNON,"43,93524483","4,840715725",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,03/09/2018,30/08/2020,INST NATIONAL RECHERCHE AGRONOMIQUE,34070,EPST,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,01/10/2018,31/08/2020,BANQUE POPULAIRE DU SUD,66000,,PERPIGNAN,"42,69659541","2,89936954",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,30/09/2019,31/08/2020,AIRBUS OPERATIONS SAS TOULOUSE,31000,SASU,TOULOUSE,"43,59638143","1,431672934",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,17/09/2018,31/08/2020,OLYSTIC,75008,SAS,PARIS 8,"48,87252727","2,31258256",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,03/09/2018,02/09/2020,GROUPAMA SUPPORTS ET SERVICES,34170,GIE,CASTELNAU LE LEZ,"43,63802188","3,91265416",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,03/09/2018,28/08/2020,PRICEWATERHOUSECOOPERS ADVISORY,92200,SAS,NEUILLY SUR SEINE,"48,88537197","2,266425847",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,02/09/2019,25/09/2020,SFR,,,,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,02/09/2019,04/09/2020,PRICEWATERHOUSECOOPERS ADVISORY,92200,SAS,NEUILLY SUR SEINE,"48,88537197","2,266425847",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,02/09/2019,31/08/2020,ADDEO,33130,SAS,BEGLES,"44,80160091","-0,5477557684",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,01/10/2018,30/09/2020,AXONAL-BIOSTATEM,92000,SAS,NANTERRE,"48,89607013","2,206713464",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,07/01/2019,28/08/2020,ACELYS INFORMATIQUE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,02/09/2019,31/08/2020,RUBIX DEVELOPPEMENT,69007,,LYON 07,"45,73340984","4,837584957",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,03/09/2018,31/08/2020,ASSOCIATION DES MOYENS ASSURANCES,49906,,ANGERS CEDEX 9,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,03/09/2018,28/08/2020,REPORT ONE,81150,SAS,TERSSAC,"43,95321508","2,029954569",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,18/11/2019,28/08/2020,SANOFI PASTEUR,69007,SA,LYON 07,"45,73340984","4,837584957",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,03/09/2018,28/08/2020,EDF SA DIRECTION COMMERCE SUD OUEST,31100,SA,TOULOUSE,"43,59638143","1,431672934",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,01/10/2018,30/09/2020,AIR FRANCE,93290,SA CA,TREMBLAY EN FRANCE,"48,97843041","2,554685015",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,01/10/2019,31/08/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2019-2020,M MIASHS 2A,03/09/2018,31/08/2020,LISI AEROSPACE,75583,,PARIS,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2019-2020,M MIASHS 2A,03/09/2018,28/08/2020,BALEA,34270,SAS,SAINT MATHIEU DE TREVIERS,"43,76409293","3,79487939",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MIASHS 2A,20/08/2018,20/08/2020,GEOMATYS,34934,SAS,MONTPELLIER,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2019-2020,M MISRH 1A,01/09/2019,30/09/2021,RM AUDIT & EXPERTISE,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,09/09/2019,01/10/2021,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,02/09/2019,01/10/2021,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,01/10/2019,30/09/2021,O-I MANUFACTURING,34500,SAS,BEZIERS,"43,34758833","3,230767542",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,02/09/2019,17/09/2021,EXPERT HUIS PARIS MONTPELLIER,34080,Société civile de moyens,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2019-2020,M MISRH 1A,03/09/2019,17/09/2021,UNIVERSITÉ DE MONTPELLIER,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2019-2020,M MISRH 1A,01/09/2019,30/09/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2019-2020,M MISRH 1A,02/09/2019,17/09/2021,EDF CNPE BUGEY,1150,SA,LAGNIEU,"45,84696861","5,251660559",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,02/09/2019,30/09/2021,ARCELORMITTAL MEDITERRANEE,13270,SAS,FOS SUR MER,"43,45568121","4,904521339",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,01/10/2019,30/09/2021,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M2 Gestion des Ressources Humaines parcours Management international et RH,Public
+2020-2020,M MISRH 1A,01/07/2020,31/08/2021,SAINT MAMET,30600,SAS,VAUVERT,"43,62584685","4,305970933",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,01/08/2019,30/09/2021,VERDIE AUTOCARS,12000,SAS,RODEZ,"44,3609252","2,476715977",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,02/09/2019,01/10/2021,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 1A,23/09/2019,24/09/2021,DEPARTEMENT ISERE,38022,Fonction publique territoriale,GRENOBLE,"45,64264374","5,56958624",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2019-2020,M MISRH 2A,03/09/2018,02/10/2020,CLINIQUE SAINT JEAN,34093,SAS,MONTPELLIER CEDEX 05,"43,6690497","3,221016971",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,01/10/2019,18/09/2020,RENAULT,78280,SAS,GUYANCOURT,"48,77307839","2,076052077",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,06/08/2018,02/10/2020,LA POSTE,34391,SA CA,MONTPELLIER CEDEX 5,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2018-2020,M MISRH 2A,03/09/2018,02/10/2020,MERLIN GERIN ALES (SHNEIDER),30319,SAS,ALES,"44,03818981","4,343372874",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,02/09/2019,18/09/2020,MANPOWER,30100,SAS,ALES,"44,12500991","4,088285013",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,03/09/2018,02/10/2020,GMCO,34970,SAS,LATTES,"43,56385941","3,902262229",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,10/09/2018,31/08/2020,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2019-2020,M MISRH 2A,02/09/2019,30/09/2020,A PLUS ENERGIES,,,,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2019-2020,M MISRH 2A,27/08/2019,30/09/2020,BPIFRANCE,94700,SA,MAISONS ALFORT,"48,80639233","2,438182489",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,02/09/2019,30/09/2020,CAMERON FRANCE,34500,SAS,BEZIERS,"43,34758833","3,230767542",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,06/09/2018,02/10/2020,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,22/10/2018,30/09/2020,DUC,30730,SA,SAINT BAUZELY,"43,90727446","4,180545205",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,01/09/2018,31/08/2020,VORTEX,34430,SAS,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,06/09/2018,02/10/2020,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,29/11/2018,02/10/2020,AFPA ENTREPRISES,34000,EPIC,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2019-2020,M MISRH 2A,01/09/2018,02/10/2020,TELESPAZIO FRANCE,31023,SAS,TOULOUSE,"43,19003534","0,813417937",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2019-2020,M MISRH 2A,03/09/2018,02/10/2020,R2M EXPERTISE,34080,SASU,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2019-2020,M MISRH 2A,19/09/2019,18/09/2020,DDTM 34 HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2019-2020,M PTO 2A,02/09/2019,30/09/2020,EI GROUPE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2019-2020,M2 MAVINUM,02/09/2019,25/09/2020,EGIS RAIL,69006,SA,LYON 6E,"45,77285072","4,852079114","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2019-2020,M2 PTO,23/09/2019,25/09/2020,EDF - CNPE DE GOLFECH,82401,SA,VALENCE D'AGEN CEDEX,#N/A,#N/A,M2 Psychologie sociale du travail et des organisations ,Privé
+2020-2021,DUT SAP 1A,01/10/2020,16/06/2022,ADMR PAY HERAULTAIS,34080,Association,MONTPELLIER,"43,61344091","3,868516579",DUT carrières sociales option service à la personne 1ere annee,Association
+2020-2021,DUT SAP 2A,01/10/2020,16/06/2021,RESIDENCE JULES SEGUELA,11110,,SALLES D AUDE,"43,18764163","3,08927706",DUT carrières sociales option service à la personne 2eme annee, 
+2020-2021,DUT SAP 2A,18/09/2020,31/08/2021,FEDERATION ADMR DE L'AUDE,11000,Association,CARCASSONNE,"43,21409862","2,407732717",DUT carrières sociales option service à la personne 2eme annee,Association
+2020-2021,DUT SAP 2A,01/09/2019,31/08/2021,ADAPA,1000,,BOURG EN BRESSE,"46,20515204","5,246021255",DUT carrières sociales option service à la personne 2eme annee, 
+2020-2021,DUT SAP 2A,03/09/2018,30/08/2020,A2MICILE - AZAE NARBONNE,11200,SARL,LEZIGNAN CORBIERES,"43,24583407","2,770623578",DUT carrières sociales option service à la personne 2eme annee,Privé
+2020-2021,LG AES DS,01/09/2020,31/08/2021,LYCEE AGRICOLE VALLEE DE L'HERAULT,34150,Association,GIGNAC,"43,68350114","3,592594376",Licence Administration Economique et Sociale parcours Développement social,Association
+2020-2021,LP Animation,08/02/2021,30/09/2021,PLATEFORME SOLIDARITE INTERNATIONALE,66000,Association,PERPIGNAN,"42,69659541","2,89936954","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2020-2021,LP Animation,01/10/2020,31/08/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Public
+2020-2021,LP Animation,21/09/2020,30/09/2021,ESSOR SAVOIRS ET PARTAGE,34080,Association,MONTPELLIER,"43,61344091","3,868516579","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2020-2021,LP Animation,19/10/2020,31/07/2021,ASSO AGATHOISE SAUVETAGE SECOURISME-NA,34300,Association,AGDE,"43,30912912","3,484479031","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2020-2021,LP Animation,01/09/2020,30/09/2021,PACAP,34190,Association,GANGES,"43,90105236","3,726526304","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2020-2021,LP Animation,01/03/2021,31/08/2021,STAND'ART,34430,Association,ST JEAN DE VEDAS,"43,57162823","3,83221848","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2020-2021,LP Animation,14/10/2020,30/08/2021,PEPS-PRATIQUE EDUC ET PLAISIR SPORTIFS,34000,Association,MONTPELLIER,"43,61344091","3,868516579","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2020-2021,LP Animation,08/04/2021,07/10/2021,,,,,#N/A,#N/A,"L PROmétiers de l'animation sociale , socio-éducative et socioculturelle", 
+2020-2021,LP IS APS,04/01/2021,02/07/2021,MAISON DE SANTÉ PROTESTANTE,30000,Association,NIMES,"43,84493839","4,34806797",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Association
+2020-2021,LP IS APS,01/10/2020,31/08/2021,AMARIC APEF,30200,SARL,BAGNOLS SUR CEZE,"44,16224967","4,624773809",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Privé
+2020-2021,LP IS APS,26/10/2020,31/08/2021,DEPARTEMENT DE L'AUDE,11000,Collectivité Territoriale,CARCASSONNE,"43,21409862","2,407732717",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Public
+2020-2021,LP RDN,01/09/2020,31/08/2021,DGDDI - GARDE COTES DOUANE,76620,Administration d'Etat,LE HAVRE,"49,4984525","0,1401537192",Licence professionnelle RDN,Public
+2020-2021,LP RDN,01/02/2021,31/08/2021,DGA ESSAIS EN VOL SITE D'ISTRES,13800,Administration d'Etat,ISTRES,"43,55026891","4,951181352",Licence professionnelle RDN,Public
+2020-2021,LP RDN,01/09/2020,31/08/2021,ECOUTER LE BRUIT,78300,ERL,POISSY,"48,92353594","2,027155528",Licence professionnelle RDN, 
+2020-2021,LP RDN,14/09/2020,31/08/2021,MODELE DEPOSE,66100,SARL,PERPIGNAN,"42,69659541","2,89936954",Licence professionnelle RDN,Privé
+2020-2021,LP RDN,31/08/2020,30/07/2021,OCCITANIE LIVRE & LECTURE,31000,Association,TOULOUSE,"43,59638143","1,431672934",Licence professionnelle RDN,Association
+2020-2021,LP RDN,01/09/2020,31/08/2021,ECOUTER LE BRUIT,78300,ERL,POISSY,"48,92353594","2,027155528",Licence professionnelle RDN, 
+2020-2021,M CNO 1A,16/11/2020,05/09/2022,BITWIPCONSEIL,97300,SAS,CAYENNE,"5,021737428","-52,50125111",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 1A,07/09/2020,06/09/2022,DEPARTEMENT DE L'AUDE,11000,Collectivité Territoriale,CARCASSONNE,"43,21409862","2,407732717",M1 Information-Communication parcours Communication numérique et organisations,Public
+2020-2021,M CNO 1A,04/10/2020,03/10/2022,L'ARTISAN CHOCOLATIER,81000,SARL,ALBI,"43,92582136","2,146863286",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 1A,19/10/2020,05/09/2022,MIDIMEDIA,34430,SNC,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M1 Information-Communication parcours Communication numérique et organisations, 
+2020-2021,M CNO 1A,02/11/2020,05/09/2022,GIP CONNECT,34970,SAS,LATTES,"43,56385941","3,902262229",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 1A,01/09/2020,31/08/2022,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Public
+2020-2021,M CNO 1A,01/02/2021,05/09/2022,PAHASKA,34830,Association,JACOU,"43,66201923","3,886897482",M1 Information-Communication parcours Communication numérique et organisations,Association
+2020-2021,M CNO 1A,01/10/2020,30/09/2022,TECHNILUM,34500,SAS,BEZIERS,"43,34758833","3,230767542",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 1A,02/11/2020,30/09/2022,APELEM,,SAS,GAILLARGUES LE MONTUEUX,#N/A,#N/A,M1 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 1A,01/09/2020,05/09/2022,FONDATION VAN ALLEN,34090,FONDATION,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations, 
+2020-2021,M CNO 1A,01/02/2021,30/09/2022,APSARA MEDIA,13300,ERL,SALON DE PROVENCE,"43,64628852","5,068146496",M1 Information-Communication parcours Communication numérique et organisations, 
+2020-2021,M CNO 2A,01/09/2020,06/09/2021,WAH,34400,SARL,LUNEL,"43,68204818","4,135664723",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 2A,21/12/2020,26/09/2021,CENTRE MEDICAL INFANTILE,63540,Association,ROMAGNAT,"45,72105836","3,088246719",M2 Information-Communication parcours Communication numérique et organisations,Association
+2020-2021,M CNO 2A,15/02/2021,06/09/2021,FESTIVAL RADIO FRANCE OCCITANIE MONTPE,34960,Association,MONTPELLIER CEDEX 2,#N/A,#N/A,M2 Information-Communication parcours Communication numérique et organisations,Association
+2020-2021,M CNO 2A,16/10/2019,06/09/2021,PREFECTURE DES PYRENEES ORIENTALES,66100,Administration d'Etat,PERPIGNAN,"42,69659541","2,89936954",M2 Information-Communication parcours Communication numérique et organisations,Public
+2020-2021,M CNO 2A,05/01/2021,30/09/2021,LES FEES SPECIALES,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 2A,28/12/2020,03/08/2021,SPOTYRIDE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2020-2021,M CNO 2A,19/10/2020,06/09/2021,COMMUNE DE LE GRAU DU ROI,30240,Administration d'Etat,LE GRAU DU ROI,"43,50728109","4,166229487",M2 Information-Communication parcours Communication numérique et organisations,Public
+2020-2021,M CNO 2A,01/12/2019,30/11/2021,AGENCE REGIONALE DE SANTE OCCITANIE,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2020-2021,M COMPAC 1A,07/12/2020,05/09/2022,SCOPIE,34110,Association,FRONTIGNAN,"43,44824589","3,749235224","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2020-2021,M COMPAC 1A,07/12/2020,05/09/2022,ECO FARMS,75002,SASU,PARIS 02,"48,86790338","2,344107167","M1 Information-Communication parcours Communication publique, associative et culturelle", 
+2020-2021,M COMPAC 1A,06/10/2020,05/10/2022,MAIRIE BREC'H,56400,Commune et Commune Nouvelle,BRECH,"47,66770574","-2,990411122","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2020-2021,M COMPAC 1A,28/09/2020,05/09/2022,MADAME SOPHIE GUIN,34170,Micro-entrepreneur,CASTELNAU LE LEZ,"43,63802188","3,91265416","M1 Information-Communication parcours Communication publique, associative et culturelle", 
+2020-2021,M COMPAC 1A,28/09/2020,28/09/2022,TROPISME,34070,Société coopérative d'intérêt collectif,MONTPELLIER,"43,61344091","3,868516579","M1 Information-Communication parcours Communication publique, associative et culturelle", 
+2020-2021,M COMPAC 1A,01/02/2021,05/09/2022,BASSE COUR,30000,Association,NIMES,"43,84493839","4,34806797","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2020-2021,M COMPAC 2A,01/09/2020,31/08/2021,RADIO NARBONNE GRAND SUD FM,11100,Association,NARBONNE,"43,11764167","2,97718129","M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2020-2021,M COMPAC 2A,02/09/2019,06/09/2021,MERCY SHIPS,1210,Association,FERNEY VOLTAIRE,"46,25197892","6,108264038","M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2020-2021,M COMPAC 2A,19/10/2020,18/10/2021,CPIE BASSIN DE THAU,34110,Association,FRONTIGNAN,"43,44824589","3,749235224","M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2020-2021,M COMPAC 2A,02/09/2019,06/09/2021,PREFECTURE DU GARD,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2020-2021,M COMPAC 2A,21/10/2020,31/07/2021,MAIRIE DE MILLAU,12100,Administration d'Etat,MILLAU,"44,09647837","2,979619131","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2020-2021,M COMPAC 2A,02/09/2019,01/09/2021,SGAMI SUD,13014,Administration d'Etat,MARSEILLE,"43,34550181","5,394089158","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2020-2021,M COMPAC 2A,01/01/2020,06/09/2021,CHU ROYANS,17200,Administration d'Etat,ROYAN CEDEX,"45,63465742","-1,017914034","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2020-2021,M CPO 1A,01/10/2020,05/09/2022,GROUPE PRÉSIDENT ELECTRONICS,34543,SA,BALARUC LES BAINS,#N/A,#N/A,M1 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 1A,03/12/2020,05/09/2022,SCHNEIDER ELECTRIC INDUSTRIES,38100,SAS,GRENOBLE CEDEX 9,"45,18212152","5,721330518",M1 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 1A,14/09/2020,09/09/2022,SNCF VOYAGEURS,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 1A,03/02/2021,05/09/2022,JOKAT PANDORA,34090,SARL,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 1A,09/11/2020,09/11/2022,CAMILLE BONNEVIAL PLUTON,38470,ERL,COGNIN LES GORGES,"45,21893063","5,458357841",M1 Information-Communication parcours changement organisationnel et personnel , 
+2020-2021,M CPO 1A,07/09/2020,09/09/2022,HORMANN FRANCE,89102,SAS,SENS,"47,75442171","3,49168846",M1 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 2A,16/11/2020,06/09/2021,COURANT FORT,26000,Association,VALENCE,"44,92298117","4,914440131",M2 Information-Communication parcours changement organisationnel et personnel ,Association
+2020-2021,M CPO 2A,12/11/2020,30/09/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel ,Public
+2020-2021,M CPO 2A,16/11/2020,06/09/2021,DATA TERRAE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 2A,19/10/2020,18/10/2021,KINEIS,31520,SAS,RAMONVILLE SAINT AGNE,"43,54418379","1,477823728",M2 Information-Communication parcours changement organisationnel et personnel ,Privé
+2020-2021,M CPO 2A,07/09/2020,06/09/2021,DEPARTEMENT DE L'AUDE,11000,Collectivité Territoriale,CARCASSONNE,"43,21409862","2,407732717",M2 Information-Communication parcours changement organisationnel et personnel ,Public
+2020-2021,M CPO 2A,25/11/2019,30/09/2021,AIRDIE,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel ,Association
+2020-2021,M CPO 2A,03/12/2020,06/09/2021,Mutualité Française Grand Sud,34000,,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours changement organisationnel et personnel , 
+2020-2021,M DDT 1A,05/10/2020,08/09/2022,DEPARTEMENT DU TARN,81013,Fonction publique territoriale,ALBI CEDEX 9,"44,00853652","2,302566379",M1 Tourisme parcours Tourisme et Développement Durable, 
+2020-2021,M ESEEC 1A,01/09/2020,23/09/2022,SECRÉTARIAT GÉNÉRAL COMMUN DE VAUCLUSE,84000,Administration d'Etat,AVIGNON CEDEX 9,"43,93524483","4,840715725","M1 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences",Public
+2020-2021,M GIMD 1A,12/10/2020,09/09/2022,HARMONY GROUP,30100,SARL,ALES,"44,12500991","4,088285013",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Privé
+2020-2021,M GIMD 1A,01/10/2020,31/07/2022,ENSAM,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2020-2021,M GIMD 1A,01/12/2020,30/11/2022,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2020-2021,M GIMD 1A,14/10/2020,15/09/2022,CEA DE MARCOULE,30200,EPIC,BAGNOLS SUR CEZE,"44,16224967","4,624773809",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2020-2021,M GIMD 1A,11/01/2021,15/07/2022,UNIVERSITE D EVRY VAL D ESSONNE,91000,Administration d'Etat,EVRY,"48,62948317","2,440082445",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2020-2021,M GIMD 2A,14/10/2019,30/09/2021,INSTITUT NATIONAL DE L'AUDIOVISUEL,94360,EPIC,BRY SUR MARNE,"48,83840957","2,523196576",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2020-2021,M GIMD 2A,01/10/2020,31/08/2021,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2020-2021,M GRH AS 1A,04/09/2020,16/09/2022,LES COURRIERS DU MIDI,34090,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours AS,Privé
+2020-2021,M GRH AS 2A,01/10/2020,30/09/2021,OPEN TOURISME LAB-NÎMES METROPOLE,30900,Association,NIMES,"43,84493839","4,34806797",M1 Gestion des Ressources Humaines parcours AS,Association
+2020-2021,M GRH AS 2A,01/09/2020,30/09/2021,GROUPE ID,34470,SARL,PEROLS,"43,56066427","3,951757085",M1 Gestion des Ressources Humaines parcours AS,Privé
+2020-2021,M GRH AS 2A,07/09/2020,24/09/2021,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours AS,Privé
+2020-2021,M GRH SOI 2A,02/09/2019,17/09/2021,EXPERT HUIS PARIS MONTPELLIER,34080,Société civile de moyens,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Sciences des Organisations et des Institutions, 
+2020-2021,M GRH SOI 2A,01/09/2019,30/09/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Sciences des Organisations et des Institutions,Public
+2020-2021,M HUMANUM 1A,05/10/2020,30/09/2022,LA POSTE,75015,SA,PARIS 15,"48,84015542","2,293559372",M1 Humanités Numériques,Privé
+2020-2021,M HUMANUM 1A,19/10/2020,30/09/2022,EARLY MAKERS GROUP,75012,SA,PARIS 12,"48,83515623","2,419807035",M1 Humanités Numériques,Privé
+2020-2021,M HUMANUM 1A,05/10/2020,30/09/2022,FRANCE EDUCATION INTERNATIONAL,92310,Administration d'Etat,SEVRES,"48,82147651","2,210522974",M1 Humanités Numériques,Public
+2020-2021,M HUMANUM 1A,05/10/2020,30/09/2022,MEDICA FRANCE,75008,SAS,PARIS 08,"48,87252727","2,31258256",M1 Humanités Numériques,Privé
+2020-2021,M HUMANUM 2A,01/09/2020,30/09/2021,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",M2 Humanités Numériques,Public
+2020-2021,M HUMANUM 2A,01/12/2020,30/11/2021,FRANCE EDUCATION INTERNATIONAL,92310,Administration d'Etat,SEVRES,"48,82147651","2,210522974",M2 Humanités Numériques,Public
+2020-2021,M HUMANUM 2A,16/10/2020,15/10/2021,SERVICE & CO,69006,SAS,LYON 06,"45,77285072","4,852079114",M2 Humanités Numériques,Privé
+2020-2021,M HUMANUM 2A,09/11/2020,30/09/2021,AUNEGE,75008,Association,PARIS 08,"48,87252727","2,31258256",M2 Humanités Numériques,Association
+2020-2021,M HUMANUM 2A,19/10/2020,30/09/2021,OUEST MEDIAS,44600,SAS,SAINT NAZAIRE,"47,2802857","-2,253799272",M2 Humanités Numériques,Privé
+2020-2021,M IDS ESSAP 1A,14/09/2020,24/09/2022,UNAPEI 34,34090,,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours ESSAP, 
+2020-2021,M IDS ESSAP 1A,23/09/2020,30/09/2022,ESL,48000,ERL,MENDE,"44,53990342","3,554042836",M1 Intervention et développement social parcours ESSAP, 
+2020-2021,M IDS ESSAP 1A,14/09/2020,30/09/2022,LIGUE DE L'ENSEIGNEMENT - F VAUCLUSE,84000,Association,AVIGNON,"43,93524483","4,840715725",M1 Intervention et développement social parcours ESSAP,Association
+2020-2021,M IDS ESSAP 1A,01/10/2020,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours ESSAP,Public
+2020-2021,M IDS ESSAP 1A,01/10/2020,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours ESSAP,Public
+2020-2021,M IDS ESSAP 2A,26/10/2020,30/09/2021,MARCHE PAYSANS,34970,Association,LATTES,"43,56385941","3,902262229",M2 Intervention et développement social parcours ESSAP,Association
+2020-2021,M IDS ESSAP 2A,01/10/2020,30/09/2021,INTERMEDIAIRE ADEQUATION,38500,Association,VOIRON,"45,3311382","5,623564106",M2 Intervention et développement social parcours ESSAP,Association
+2020-2021,M IDS ESSAP 2A,01/09/2020,24/09/2021,1 CHEZ SOI D ABORD,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Association
+2020-2021,M IDS ESSAP 2A,07/09/2020,24/09/2021,CROUS DE MONTPELLIER,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours ESSAP,Public
+2020-2021,M IDS ESSAP 2A,01/11/2020,31/10/2021,CRESS OCCITANIE,31500,Association,TOULOUSE,"43,59638143","1,431672934",M2 Intervention et développement social parcours ESSAP,Association
+2020-2021,M IDS ESSAP 2A,28/09/2020,24/09/2021,EDUCATIVE DU MAS CAVAILLAC,30120,Association,MOLIERES CAVAILLAC,"44,04169608","3,58679644",M2 Intervention et développement social parcours ESSAP,Association
+2020-2021,M IDS PIDT 1A,02/11/2020,01/11/2022,SERVICE ACCUEIL MINEURS RAIMBAUD,42300,Association,ROANNE,"46,09194569","4,063321183",M1 Intervention et développement social parcours PIDT,Association
+2020-2021,M IDS PIDT 2A,01/10/2019,30/09/2021,BOUILLON CUBE,34380,Association,CAUSSE DE LA SELLE,"43,72495231","3,674207203",M2 Intervention et développement social parcours PIDT,Association
+2020-2021,M IDS PIDT 2A,01/10/2020,30/09/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Public
+2020-2021,M IDS PIDT 2A,07/10/2019,30/09/2021,ASSOCIATION DEFI,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2020-2021,M IDS PIDT 2A,19/10/2020,19/10/2021,PASSEURS-CULTURES/IMAGES PACIM,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2020-2021,M IDS PIDT 2A,14/10/2020,24/09/2021,GROUPE SOS SOLIDARITÉS,75011,Association,PARIS,"48,8594155","2,37874106",M2 Intervention et développement social parcours PIDT,Association
+2020-2021,M IDS PIDT 2A,28/10/2020,26/10/2021,LA MENUISERIE COLLABORATIVE,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Privé
+2020-2021,M IDS PIDT 2A,02/11/2020,30/09/2021,MISSION LOCALE JEUNE MONTPELLIER,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2020-2021,M IDS PIDT 2A,01/10/2020,29/10/2021,LIGUE DE L'ENSEIGNEMENT-FEDE YVELINES,,Association,,#N/A,#N/A,M2 Intervention et développement social parcours PIDT,Association
+2020-2021,M MAVINUM 2A,03/10/2019,30/09/2021,EDF CNPE DE DAMPIERRE,45570,SA,OUZOUER SUR LOIRE,"47,76127445","2,543038043","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2020-2021,M MIASHS 1A,19/10/2020,31/08/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2020-2021,M MIASHS 1A,31/08/2020,31/08/2022,BALEA,34270,SAS,SAINT MATHIEU DE TREVIERS,"43,76409293","3,79487939",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,01/09/2020,31/08/2022,SIM AND CURE,34090,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,01/09/2020,31/08/2022,AIRBUS HELICOPTERS MARIGNANE,13700,SAS,MARIGNANE,"43,41720684","5,212219045",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,07/09/2020,31/08/2022,CDC HABITAT,34070,Société d'économie mixte,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 1A,07/09/2020,31/08/2022,8.2 FRANCE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,07/09/2020,30/09/2022,NETIWAN,34500,SAS,BEZIERS,"43,34758833","3,230767542",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,01/09/2020,31/08/2022,OPENFIELD MALAKOFF,92240,SAS,MALAKOFF,"48,8169696","2,296935995",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,07/09/2020,09/09/2022,SOGETREL,92130,SAS,ISSY LES MOULINEAUX,"48,82347434","2,264498233",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,26/10/2020,31/08/2022,CDC HABITAT,34070,Société d'économie mixte,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 1A,31/08/2020,01/09/2022,TOPNIR SYSTEMS,13857,SAS,AIX EN PROVENCE CEDEX 3,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,25/09/2020,02/09/2022,LYTN,34090,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 1A,31/08/2020,30/09/2022,DAMMANN PRESTATIONS INFORMATIQUES,30310,SASU,VERGEZE,"43,73753604","4,233609905",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 1A,01/07/2021,02/09/2021,,,,,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 1A,04/01/2021,31/08/2022,AIRBUS OPERATIONS SAS TOULOUSE,31000,SASU,TOULOUSE,"43,59638143","1,431672934",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 1A,15/06/2021,31/08/2021,,,,,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 1A,04/01/2021,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2020-2021,M MIASHS 2A,01/10/2018,30/08/2021,ESSILOR INTERNATIONAL,94000,SAS,CRETEIL,"48,78374018","2,454635304",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,01/10/2020,30/09/2021,AMADEUS,6410,SAS,BIOT,"43,62765581","7,083186129",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,01/10/2018,31/08/2020,BANQUE POPULAIRE DU SUD,66000,,PERPIGNAN,"42,69659541","2,89936954",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 2A,01/09/2020,31/08/2021,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2020-2021,M MIASHS 2A,01/10/2020,31/08/2021,ONAOS,66330,SASU,CABESTANY,"42,6790392","2,946286334",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 2A,04/11/2019,28/08/2021,PRICEWATERHOUSECOOPERS ADVISORY,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,04/11/2019,28/08/2021,SANOFI CHIMIE,30390,SAS,ARAMON,"43,90419902","4,683020019",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,01/10/2019,31/08/2021,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2020-2021,M MIASHS 2A,02/09/2019,31/08/2021,COMWATT,34960,SAS,MONTPELLIER,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,21/10/2019,28/08/2021,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,30/11/2020,01/09/2021,PSA AUTOMOBILES SA,78300,SA,POISSY,"48,92353594","2,027155528",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,31/08/2020,01/09/2021,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,11/09/2019,31/08/2021,MUTEX,92327,SA,CHATILLON,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,09/09/2019,28/08/2021,INETUM,93400,SA CA,ST OUEN SUR SEINE,"48,90980658","2,332570422",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,02/09/2019,31/08/2021,PRIVATESPORTSHOP VENDARGUES,34740,SAS,VENDARGUES,"43,66104575","3,962830331",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,01/09/2020,01/09/2021,AUDRNA,30023,Association,Nîmes cedex 1,"43,79143612","4,12868797",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Association
+2020-2021,M MIASHS 2A,02/09/2019,24/09/2021,CAISSE REGIONALE DU CREDIT AGRICOLE DU,34970,SA,LATTES,"43,56385941","3,902262229",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,01/10/2019,28/08/2021,CREDIT AGRICOLE SA,92120,SA,MONTROUGE,"48,81530322","2,316489214",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,09/09/2019,31/08/2021,SOGETREL,92130,SAS,ISSY LES MOULINEAUX,"48,82347434","2,264498233",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,02/09/2019,31/08/2021,PICKEOS,30820,SAS,CAVEIRAC,"43,83386686","4,267857962",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,01/09/2019,31/08/2021,RECTORAT DE MONTPELLIER,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2020-2021,M MIASHS 2A,01/10/2019,30/09/2021,BNP PARIBAS PERSONAL FINANCE,92300,SA CA,LEVALLOIS PERRET,"48,89507167","2,286882681",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MIASHS 2A,02/09/2019,31/08/2021,GROUPAMA SUPPORTS ET SERVICES,34170,GIE,CASTELNAU LE LEZ,"43,63802188","3,91265416",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2020-2021,M MIASHS 2A,21/09/2020,31/08/2021,AXENS,30340,SA,SALINDRES,"44,10161097","4,151296055",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2021,M MISRH 1A,01/09/2020,23/09/2022,AUGEFI,34300,SAS,AGDE,"43,30912912","3,484479031",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,01/09/2020,23/09/2022,ORANO DS DO CEA,30200,SA,BAGNOLS SUR CEZE,"44,16224967","4,624773809",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,14/09/2020,30/09/2022,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,14/09/2020,30/09/2022,UNAPEI 34,34090,,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 1A,14/09/2020,23/09/2022,ORANO NC TRICASTIN,26701,SA,PIERRELATTE,#N/A,#N/A,M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,05/10/2020,24/09/2022,PAY JOB,75008,SARL,PARIS,"48,87252727","2,31258256",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,01/09/2020,30/09/2022,SUD SERVICE,34171,SAS,CASTELNAU LE LEZ CEDEX,"43,91924221","3,80187206",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,12/11/2020,30/09/2022,SAUR,30900,,NIMES,"43,84493839","4,34806797",M2 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 1A,01/09/2020,23/09/2022,LA COMPAGNIE DES DESSERTS,11200,SAS,LEZIGNAN CORBIERES,"43,24583407","2,770623578",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,01/09/2020,17/09/2022,PAY JOB,75008,SARL,PARIS,"48,87252727","2,31258256",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,14/09/2020,23/09/2022,AUGEFI BASSIN DE THAU FRONTIGNAN,34110,SAS,FRONTIGNAN,"43,44824589","3,749235224",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,01/09/2020,23/09/2022,GRID SOLUTIONS,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 1A,01/09/2020,30/09/2022,RM AUDIT & EXPERTISE,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/09/2019,30/09/2021,RM AUDIT & EXPERTISE,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,29/03/2021,30/09/2021,PEARLS MELIS,94400,SASU,VITRY SUR SEINE,"48,78828283","2,394126805",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 2A,03/09/2020,24/09/2021,TAM,34075,SA ,MONTPELLIER,"43,33115899","2,70406695",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 2A,14/12/2020,30/09/2021,SOFILEC,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,09/09/2019,01/10/2021,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,28/09/2020,26/09/2021,LEROY MERLIN FORBACH,57600,SA,MORSBACH,"49,15124588","6,906235919",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,14/09/2020,24/09/2021,SERPE,,,,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 2A,02/09/2019,01/10/2021,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/10/2019,30/09/2021,O-I MANUFACTURING,34500,SAS,BEZIERS,"43,34758833","3,230767542",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,04/01/2021,30/09/2021,L ATELIER DE LA CASQUETTE,30900,,NIMES,"43,84493839","4,34806797",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 2A,03/09/2019,17/09/2021,UNIVERSITÉ DE MONTPELLIER,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2020-2021,M MISRH 2A,16/11/2020,30/09/2021,VECTALIA FRANCE,66100,SAS,PERPIGNAN,"42,69659541","2,89936954",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,05/10/2020,04/04/2021,,,,,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 2A,02/09/2019,17/09/2021,EDF CNPE BUGEY,1150,SA,LAGNIEU,"45,84696861","5,251660559",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,02/09/2019,30/09/2021,ARCELORMITTAL MEDITERRANEE,13270,SAS,FOS SUR MER,"43,45568121","4,904521339",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/10/2019,30/09/2021,POLE EMPLOI-DIRECTION DES SYSTÈMES D',34170,EPA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2020-2021,M MISRH 2A,14/09/2020,30/09/2021,EGIS,78280,SA,GUYANCOURT,"48,77307839","2,076052077",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/02/2021,30/09/2021,SWORD,69370,SAS,SAINT DIDIER AU MONT D OR,"45,81472881","4,798443302",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/07/2020,31/08/2021,SAINT MAMET,30600,SAS,VAUVERT,"43,62584685","4,305970933",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/08/2019,30/09/2021,VERDIE AUTOCARS,12000,SAS,RODEZ,"44,3609252","2,476715977",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,01/09/2020,24/09/2021,APEX ENERGIES,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,28/09/2020,30/09/2021,MAIRIE DE MARVEJOLS,48100,Administration d'Etat,MARVEJOLS,"44,58811083","3,253932566",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2020-2021,M MISRH 2A,25/01/2021,30/09/2021,FIDUCIAL SECURITE,92400,,COURBEVOIE,"48,89845048","2,255705873",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2020-2021,M MISRH 2A,02/09/2019,01/10/2021,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,16/12/2020,24/09/2021,ALAIN DUCASSE FORMATION,92360,SARL,MEUDON,"48,80372758","2,226962878",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,19/10/2020,30/09/2021,HINFACT,31400,SAS,TOULOUSE,"43,59638143","1,431672934",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MISRH 2A,28/09/2020,27/09/2021,BUSINESS & DECISION INTERACTIVE EOLAS,38000,SARL,GRENOBLE,"45,18212152","5,721330518",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2020-2021,M MPCA 2A,18/02/2021,31/08/2021,LES FEES SPECIALES,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Cinéma et Audiovisuel parcours Métiers de la production,Privé
+2020-2021,M MPCA 2A,01/09/2020,01/09/2021,OOOLALA,26500,SARL,BOURG LES VALENCE,"44,96510942","4,894116364",M2 Cinéma et Audiovisuel parcours Métiers de la production,Privé
+2020-2021,M PTO 2A,23/11/2020,30/09/2021,LA POSTE CENTRE FINANCIER,34000,SA CA,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2020-2021,M PTO 2A,01/09/2020,30/09/2021,CEA CADARACHE,13115,EPIC,ST PAUL LES DURANCE,"43,6854814","5,753725588",M2 Psychologie sociale du travail et des organisations ,Public
+2020-2021,M PTO 2A,17/08/2020,30/09/2021,EURHEKA,34500,SARL,BEZIERS,"43,34758833","3,230767542",M2 Psychologie sociale du travail et des organisations ,Privé
+2020-2021,M TSV 2A,01/11/2020,31/10/2021,COLLECTIF MALUNÉS FR,79000,Association,NIORT,"46,29242468","-0,5136937931",M2 Théatre et spectacle vivant,Association
+2021-2022,DUT SAP 2A,01/09/2021,31/08/2022,CENTRE COMMUNAL D'ACTION SOCIALE,66750,,ST CYPRIEN,"42,62202803","3,016220143",DUT carrières sociales option service à la personne 2eme annee, 
+2021-2022,M GIMD 1A EAD,18/10/2021,22/09/2023,ECOLE NATIONALE DE LA MAGISTRATURE,33000,Etablissement Public National à caractère administratif,BORDEAUX,"44,85724454","-0,5736967812",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD), 
+2021-2022,M GRH SAC 2A,01/09/2020,23/09/2022,AUGEFI,34300,SAS,AGDE,"43,30912912","3,484479031",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M CNO 2A,04/10/2021,30/09/2022,FRESH AFRIKA BY KAYNO,93400,SAS,ST OUEN SUR SEINE,"48,90980658","2,332570422",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M ESEEC 1A,02/09/2021,23/09/2023,SNCF RESEAU,34070,SA,MONTPELLIER,"43,61344091","3,868516579","M1 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences",Privé
+2021-2022,M ESEEC 2A,01/09/2021,31/08/2022,SETE AGGLOPOLE MEDITERRANEE,34110,Administration d'Etat,FRONTIGNAN,"43,44824589","3,749235224","M2 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences",Public
+2021-2022,M MIASHS 2A,19/10/2020,31/08/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2021-2022,M GIMD 1A EAD,01/10/2021,30/09/2023,CENTRE DEPARTEMENTAL DE GESTION DE LA,33300,Administration Publique Générale,BORDEAUX,"44,85724454","-0,5736967812",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2021-2022,LG3 AES DS,01/11/2021,30/06/2022,CENTRE INTERCOMMUNAL D ACTION SOCIALE,11000,,CARCASSONNE,"43,21409862","2,407732717",Licence Gestion Administration Economique et Sociale parcours Développement social, 
+2021-2022,M MAVINUM 2 EAD,01/10/2021,30/09/2022,ORANO MINING,92320,SA,CHATILLON,"48,80340918","2,287991319","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2021-2022,M MIASHS 2A,31/08/2020,31/08/2022,BALEA,34270,SAS,SAINT MATHIEU DE TREVIERS,"43,76409293","3,79487939",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M MISRH 2A,20/09/2021,23/09/2022,PEOPLESPHERES,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M GRH SOI 2A,09/08/2021,24/09/2022,MEDIS EXPERT SUD,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion des Ressources Humaines parcours Sciences des Organisations et des Institutions,Privé
+2021-2022,M COP 2A,04/10/2021,30/09/2022,J&G CONSEIL,94160,SARL,ST MANDE,"48,84244024","2,419219109",M2 Cangement Organisationnel et Personnel ,Privé
+2020-2022,M COP 2A,01/10/2020,05/09/2022,GROUPE PRÉSIDENT ELECTRONICS,34543,SA,BALARUC LES BAINS,#N/A,#N/A,M2 Cangement Organisationnel et Personnel ,Privé
+2021-2022,M PTO 2A,25/10/2021,24/10/2022,SWITCH RH,82000,SARL,MONTAUBAN,"44,02225946","1,364086365",M2 Psychologie sociale du travail et des organisations ,Privé
+2021-2022,M MIASHS 1A,30/08/2021,30/09/2023,AIRBUS OPERATIONS,44550, ,MONTOIR DE BRETAGNE,"47,32323685","-2,146736604",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M COMPAC 1A,01/09/2021,15/09/2023,DDTM 34 HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M MISRH 2A,15/09/2021,13/03/2022,,,,,#N/A,#N/A,M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2021-2022,M MISRH 2A,20/09/2021,23/09/2022,L AGENCE REGIONALE,34470,GIE,PEROLS,"43,56066427","3,951757085",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2021-2022,M IDS PIDT 1A,08/11/2021,07/11/2023,MAISON JEUNES CULTURE MAUGUIO CARNON,34130,Association,MAUGUIO,"43,61843365","4,063979436",M1 Intervention et développement social parcours PIDT,Association
+2021-2022,M CAMD 2A,09/09/2021,16/09/2022,OCCITANIE FILMS,34070,Association,MONTPELLIER,"43,61344091","3,868516579",,Association
+2021-2022,M GRH SAC 2A,01/09/2020,23/09/2022,ORANO DS DO CEA,30200,SA,BAGNOLS SUR CEZE,"44,16224967","4,624773809",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,LP IS APS,29/10/2021,26/08/2022,O2 MONTPELLIER EST,72100,SARL,LE MANS,"47,98852567","0,2000304935",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Privé
+2021-2022,M PTO 2A,01/09/2021,23/09/2022,AB ORIENTATION ET PERSPECTIVES,34000,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2021-2022,M ESSACAP 2A,01/10/2021,30/09/2022,ASSOCIATION POUR LA MEDIATION ET L'AID,30900,Association,NIMES,"43,84493839","4,34806797",,Association
+2021-2022,M GIMD 1A EAD,06/09/2021,22/09/2023,VEYRON-PERRIN GENEALOGISTES,30210,SAS,REMOULINS,"43,981574","4,490833373",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Privé
+2021-2022,M GRH SOI 1A,02/08/2021,24/09/2023,SNCF VOYAGEURS,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1Gestion des Ressources Humaines parcours Sciences des Organisations et des Institution,Privé
+2021-2022,M MIASHS 1A,30/08/2021,15/09/2023,GROUPAMA SUPPORTS ET SERVICES,34170,GIE,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M COP 2A,01/08/2021,06/09/2022,CONSEILS EN DEVELOPPEMENT,34500,SAS à Associé Unique,BEZIERS,"43,34758833","3,230767542",M2 Cangement Organisationnel et Personnel , 
+2021-2022,M MISRH 2A,14/09/2020,30/09/2022,EDF-CNPE CRUAS-MEYSSE,7350,SA,CRUAS,"44,65664209","4,756588244",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M MIASHS 1A,30/08/2021,29/09/2023,AIRBUS HELICOPTERS MARIGNANE,13700,SAS,MARIGNANE,"43,41720684","5,212219045",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M CNO 1A,01/12/2021,11/09/2023,GROUPEMENT D EMPLOYEURS PROFESSION SPO,34070,Groupement d'employeurs,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations, 
+2021-2022,M CAMD 2A,01/09/2021,16/09/2022,JAZZ A PORQUEROLLES,83400,,HYERES,"43,10187135","6,188985085",, 
+2021-2022,M MIASHS 1A,30/08/2021,02/09/2023,AIR LIQUIDE ADVANCED TECHNOLOGIES,38360,SAS,SASSENAGE,"45,1930404","5,609397728",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M GE 2A,06/09/2021,30/09/2022,GROUPE Y AUDIT,79000,SAS,NIORT,"46,29242468","-0,5136937931",M2 Gestion de l'environnement,Privé
+2021-2022,LP IS APS,25/10/2021,30/08/2022,ASSOCIATION LOCALE ADMR DE CHARLY-VERN,69390,Association,VERNAISON,"45,65080302","4,789795723",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Association
+2021-2022,M MISRH 1A,01/07/2021,22/09/2023,LITTORAL NETTOYAGE,34200,SARL,SETE,"43,39177058","3,647051483",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M MAVINUM 2A,02/11/2021,23/09/2022,AGENCE URBANISME AGGLO MARSEILLAISE,13001,Association,MARSEILLE 01,"43,29990094","5,382278698","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Association
+2021-2022,M MAVINUM 2A,01/10/2021,30/09/2022,UNIVERSITE TOULOUSE III - PAUL SABATIE,31400,Etablissement Public National à caractère administratif,TOULOUSE,"43,59638143","1,431672934","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)", 
+2021-2022,M MAVINUM 2 EAD,13/09/2021,23/09/2022,ECOLE SUPERIEUR DE PRAXIS SOCIAL DE MU,68200,Association,MULHOUSE,"47,7491633","7,325700475","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Association
+2021-2022,M PTO 2A,18/10/2021,30/09/2022,AFPA ACCES A L' EMPLOI,33200,SASU,BORDEAUX,"44,85724454","-0,5736967812",M2 Psychologie sociale du travail et des organisations , 
+2021-2022,M HUMANUM 2A EAD,13/09/2021,30/09/2022,ARIANE GROUP,33185, ,LE HAILLAN,"44,86908379","-0,6844435121",M2 Humanités Numériques EAD, 
+2021-2022,M IDS PIDT 2A,29/11/2021,23/11/2022,MOUVEMENT FRANCAIS PLANNING FAMILIAL,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,M IDS PIDT 1A,06/09/2021,22/09/2023,ASS DEP ADMINIST GESTION ETS SPECIALIS,34500,Association,BEZIERS,"43,34758833","3,230767542",M1 Intervention et développement social parcours PIDT,Association
+2021-2022,M GIMD 1A EAD,27/09/2021,22/09/2023,COMMUNE D AUBAGNE,13400,Fonction publique territoriale,AUBAGNE,"43,29348438","5,563312735",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD), 
+2021-2022,M GE 2A,06/09/2021,30/09/2022,EPCC PONT DU GARD,30210,EPIC,VERS PONT DU GARD,"43,981574","4,490833373",M2 Gestion de l'environnement,Public
+2021-2022,LG3 AES DS,01/11/2021,30/06/2022,SOLI'NIORT,79000,Association,NIORT,"46,29242468","-0,5136937931",Licence Gestion Administration Economique et Sociale parcours Développement social,Association
+2020-2022,M COP 2A,03/12/2020,05/09/2022,SCHNEIDER ELECTRIC INDUSTRIES,38100,SAS,GRENOBLE CEDEX 9,"45,18212152","5,721330518",M2 Cangement Organisationnel et Personnel ,Privé
+2020-2022,M CNO 2A,16/11/2020,05/09/2022,BITWIPCONSEIL,97300,SAS,CAYENNE,"5,021737428","-52,50125111",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,DUT SAP 2A,09/08/2021,26/06/2022,DELAUYAL,11100,SARL,NARBONNE,"43,11764167","2,97718129",DUT carrières sociales option service à la personne 2eme annee,Privé
+2022-2022,M ESSACAP 1A,04/01/2022,23/09/2023,ASS ECHANGE NORD-SUD,33110,Association,LE BOUSCAT,"44,86612983","-0,6021215586",,Association
+2021-2022,M MIASHS 1A,01/09/2021,01/09/2023,CAISSE REGIONALE DU CREDIT AGRICOLE DU,34970,SA,LATTES,"43,56385941","3,902262229",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M GIMD 2A EAD,13/12/2021,09/09/2022,ENSAM,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD) EAD,Public
+2021-2022,M GE 2A,13/09/2021,13/09/2022,BIG IMPACTS,33000,Association,BORDEAUX,"44,85724454","-0,5736967812",M2 Gestion de l'environnement,Association
+2021-2022,M IDS PIDT 2A,06/09/2021,23/09/2022,VIVRE ENSEMBLE CITOYEN QUARTIER CEVENN,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2020-2022,M MIASHS 2A,01/09/2020,31/08/2022,SIM AND CURE,34090,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2020-2022,M COP 2A,14/09/2020,09/09/2022,SNCF VOYAGEURS,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Cangement Organisationnel et Personnel ,Privé
+2021-2022,M GE 2A,06/09/2021,09/09/2022,OFFICE NATIONAL DES FORETS,13090,EPIC,AIX EN PROVENCE,"43,53607084","5,398574446",M2 Gestion de l'environnement,Public
+2021-2022,M GRH SAC 2A,14/09/2020,30/09/2022,UNAPEI 34,34090,Association,MONTPELLIER,"43,61344091","3,868516579",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Association
+2021-2022,M MIASHS 2A,01/09/2020,31/08/2022,AIRBUS HELICOPTERS MARIGNANE,13700,SAS,MARIGNANE,"43,41720684","5,212219045",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M IDS PIDT 2A,14/09/2020,24/09/2022,UNAPEI 34,34090,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,M IDS PIDT 1A,01/09/2021,23/09/2023,ISSUE,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours PIDT,Association
+2021-2022,M GIMD 1A EAD,01/09/2021,22/09/2023,DGDDI - GARDE COTES DOUANE,76620,Administration d'Etat,LE HAVRE,"49,4984525","0,1401537192",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2021-2022,M GRH SAC 2A,14/09/2020,23/09/2022,ORANO NC TRICASTIN,26701,SA,PIERRELATTE,#N/A,#N/A,M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M CNO 1A,29/11/2021,30/09/2023,GOKATA18,66140,SAS,CANET EN ROUSSILLON,"42,6841288","3,011617448",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M CAMP 2A,01/10/2021,30/09/2022,MAGNA VOX,21000,Association,DIJON,"47,3229438","5,037888059",,Association
+2021-2022,M MIASHS 2A,07/09/2020,31/08/2022,CDC HABITAT,34070,Société d'économie mixte,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M CAMD 2A,17/09/2021,16/09/2022,L'YRE CINEMA,11370,,LEUCATE,"42,89936507","3,026760386",, 
+2021-2022,M HUMANUM 1A EAD,01/10/2021,30/09/2023,PIDAPI,34830,Association,CLAPIERS,"43,66201923","3,886897482",M1 Humanités Numériques EAD,Association
+2021-2022,M COMPAC 2A,07/12/2020,05/09/2022,SCOPIE,34110,Association,FRONTIGNAN,"43,44824589","3,749235224","M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M MIASHS 1A,23/08/2021,01/09/2023,TZAV DESIGN,84000,SARL,AVIGNON,"43,93524483","4,840715725",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M HUMANUM 2A EAD,05/10/2020,30/09/2022,LA POSTE,75015,SA,PARIS 15,"48,84015542","2,293559372",M2 Humanités Numériques EAD,Privé
+2021-2022,M COMPAC 2A,04/10/2021,06/09/2022,COMMUNE DE LE GRAU DU ROI,30240,Administration d'Etat,LE GRAU DU ROI,"43,50728109","4,166229487","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M MISRH 2A,13/09/2021,23/09/2022,ASICS FRANCE,34970,SAS,LATTES,"43,56385941","3,902262229",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M COP 2A,01/09/2021,30/09/2022,ENEDIS,34070,ERL,MONTPELLIER,"43,61344091","3,868516579",M2 Cangement Organisationnel et Personnel , 
+2021-2022,M MISRH 2A,05/10/2020,24/09/2022,PAY JOB,75008,SARL,PARIS,"48,87252727","2,31258256",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M CAMD 2A,01/10/2021,16/09/2022,OCCITANIE FILMS,34070,Association,MONTPELLIER,"43,61344091","3,868516579",,Association
+2021-2022,DUT SAP 2A,01/09/2021,31/08/2022,ADMR CASTRIES,34160,Association,CASTRIES,"43,72989844","4,02118901",DUT carrières sociales option service à la personne 2eme annee,Association
+2021-2022,M COMPAC 1A,01/09/2021,11/09/2023,STAND'ART,34430,Association,ST JEAN DE VEDAS,"43,57162823","3,83221848","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M IDS PIDT 2A,23/09/2020,30/09/2022,ESL,48000,ERL,MENDE,"44,53990342","3,554042836",M2 Intervention et développement social parcours PIDT, 
+2021-2022,M GE 2A,01/09/2021,15/09/2022,OFFICE NATIONAL DES FORETS,34000,EPIC,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion de l'environnement,Public
+2021-2022,M ESSACAP 2A,23/08/2021,23/09/2022,COMPOSTONS,34090,Association,MONTPELLIER,"43,61344091","3,868516579",,Association
+2021-2022,M COMPAC 1A,22/11/2021,11/09/2023,APF FRANCE HANDICAP,30900,Association,NIMES,"43,84493839","4,34806797","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M GIMD 1A EAD,18/10/2021,31/10/2023,BUREAU VERITAS EXPLOITATION,92800,SAS,PUTEAUX,"48,8837095","2,238341783",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Privé
+2021-2022,M MAVINUM 1A,01/10/2021,30/09/2023,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521","M1 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Public
+2021-2022,M MIASHS 1A,03/01/2022,30/09/2023,PREMIDIRECT,54840,SAS,GONDREVILLE,"48,7076893","5,991121884",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M EPSIN 2A,01/10/2021,30/09/2022,REGAINS,30900,Association,NIMES,"43,84493839","4,34806797","Education Pédagogique, Société Inclusives",Association
+2021-2022,M GRH SAC 1A,06/09/2021,23/09/2023,SNCF RESEAU,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,LP IS APS,25/10/2021,02/09/2022,MAISON DE RETRAITE LES GARDIOLES,34980,Etablissement d'hospitalisation,COMBAILLAUX,"43,6724651","3,779494325",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie, 
+2021-2022,M MAVINUM 1A,20/09/2021,22/09/2023,STAFF&GO,68100,SAS,MULHOUSE,"47,7491633","7,325700475","M1 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2021-2022,M MISRH 2A,26/07/2021,23/09/2022,LA POSTE DSI BSCC,34070,SA CA,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M GIMD 1A EAD,05/10/2021,30/09/2023,MAYENNE COMMUNAUTE,53100,Collectivité Territoriale,MAYENNE,"48,3355648","-0,7582536222",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2021-2022,M GRH SAC 1A,06/09/2021,23/09/2023,SECRETARIAT GENERAL COMMUN DEPARTEMENT,7000,Administration d'Etat,FLAVIAC,"44,75505739","4,485653708",M1 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Public
+2021-2022,M CAMD 2A,01/09/2021,12/12/2022,SEMITA ART,84190,SARL,BEAUMES DE VENISE,"44,12338569","5,028755898",,Privé
+2021-2022,M MIASHS 2A,07/09/2020,30/09/2022,NETIWAN,34500,SAS,BEZIERS,"43,34758833","3,230767542",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M GIMD 1A EAD,01/09/2021,23/09/2023,ENSAM,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2021-2022,M DDT 2A,05/10/2020,08/09/2022,DEPARTEMENT DU TARN,81013,Fonction publique territoriale,ALBI CEDEX 9,"44,00853652","2,302566379",M2 Tourisme parcours Tourisme et Développement Durable, 
+2021-2022,M GRH SAC 2A,01/09/2020,30/09/2022,SUD SERVICE,34171,SAS,CASTELNAU LE LEZ CEDEX,"43,91924221","3,80187206",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M CAMD 2A,02/11/2021,31/10/2022,LE FESTIVAL,34300,SARL,AGDE,"43,30912912","3,484479031",,Privé
+2021-2022,M CAMD 2A,06/09/2021,16/09/2022,LA GRANDE DISTRIBUTION,75019,SARL,PARIS 19,"48,88686862","2,384694328",,Privé
+2021-2022,M DDT 2A,25/10/2021,21/10/2022,COMITE REGIONAL DU TOURISME ET DES LOI,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Tourisme parcours Tourisme et Développement Durable,Association
+2021-2022,M CNO 2A,07/09/2020,06/09/2022,DEPARTEMENT DE L'AUDE,11000,Collectivité Territoriale,CARCASSONNE,"43,21409862","2,407732717",M2 Information-Communication parcours Communication numérique et organisations,Public
+2021-2022,M GRH SAC 2A,11/10/2021,23/09/2022,ADMR LE CRES,34920,Association,LE CRES,"43,65409787","3,936088512",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Association
+2021-2022,M COP 1A,20/09/2021,11/09/2023,MPG IMMOBILIER,47300,SAS,VILLENEUVE SUR LOT,"44,41011012","0,6697515678",#N/A,Privé
+2021-2022,M IDS PIDT 2A,14/09/2020,30/09/2022,LIGUE DE L'ENSEIGNEMENT - F VAUCLUSE,84000,Association,AVIGNON,"43,93524483","4,840715725",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,M PTO 2A,13/09/2021,23/09/2022,PLASTIC OMNIUM GESTION,92300,SNC,LEVALLOIS PERRET,"48,89507167","2,286882681",M2 Psychologie sociale du travail et des organisations , 
+2021-2022,M MISRH 2A,12/11/2020,30/09/2022,SAUR,30900,,NIMES,"43,84493839","4,34806797",M1 Gestion des Ressources Humaines parcours Management international et RH, 
+2021-2022,M CNO 2A,04/10/2020,03/10/2022,L'ARTISAN CHOCOLATIER,81000,SARL,ALBI,"43,92582136","2,146863286",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M GIMD 2A EAD,14/10/2020,15/09/2022,CEA DE MARCOULE,30200,EPIC,BAGNOLS SUR CEZE,"44,16224967","4,624773809",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD) EAD,Public
+2021-2022,M CNO 2A,19/10/2020,05/09/2022,MIDIMEDIA,34430,SNC,SAINT JEAN DE VEDAS,"43,57162823","3,83221848",M2 Information-Communication parcours Communication numérique et organisations, 
+2021-2022,LP IS APS,01/09/2021,28/08/2022,ADMR DU MEJEAN,34470,Association,PEROLS,"43,56066427","3,951757085",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Association
+2021-2022,M ESSACAP 1A,20/09/2021,30/09/2022,TOULOUSE METROPOLE,31000,Administration d'Etat,TOULOUSE,"43,59638143","1,431672934",,Public
+2021-2022,M MIASHS 2A,11/10/2021,08/09/2022,SCHNEIDER ELECTRIC INDUSTRIES SAS,92500,SAS,RUEIL MALMAISON,"48,86918974","2,177340632",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M MIASHS 1A,30/08/2021,01/09/2023,Caisse d'Epargne LR,34000,,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M ESSACAP 2A,02/08/2021,15/12/2022,LES FRANCAS DE L'HERAULT,34070,Association,MONTPELLIER,"43,61344091","3,868516579",,Association
+2021-2022,M COP 2A,03/02/2021,05/09/2022,JOKAT PANDORA,34090,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Cangement Organisationnel et Personnel ,Privé
+2021-2022,M GRH SOI 1A,06/09/2021,24/09/2023,LIDL,,,,#N/A,#N/A,M1Gestion des Ressources Humaines parcours Sciences des Organisations et des Institution, 
+2021-2022,DUT SAP 2A,01/10/2020,16/06/2022,ADMR PAY HERAULTAIS,34080,Association,MONTPELLIER,"43,61344091","3,868516579",DUT carrières sociales option service à la personne 2eme annee,Association
+2021-2022,M COP 2A,12/07/2021,06/09/2022,SARL GL IMPRESSIONS,84320,SARL,ENTRAIGUES SUR LA SORGUE,"43,99501734","4,932953872",M2 Cangement Organisationnel et Personnel ,Privé
+2021-2022,M ESSACAP 2A,11/10/2021,23/09/2022,CDC HABITAT SOCIAL SOCIETE ANONYME D'H,33520,GIE,BRUGES,"44,88894694","-0,6004276643",, 
+2021-2022,M MISRH 2A,06/09/2021,23/09/2022,EGIS STRUCTURES ET ENVIRONNEMENT,78280,SAS,GUYANCOURT,"48,77307839","2,076052077",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M CAMP 2A,21/10/2021,30/09/2022,LES FEES SPECIALES,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",,Privé
+2021-2022,M GRH SOI 1A,01/09/2021,23/09/2023,SAUR,30900,,NIMES,"43,84493839","4,34806797",M1Gestion des Ressources Humaines parcours Sciences des Organisations et des Institution, 
+2021-2022,M COMPAC 2A,01/09/2021,30/09/2022,PREFECTURE DE L'AUDE,11000,Administration Publique Générale,CARCASSONNE,"43,21409862","2,407732717","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M COP 1A,01/09/2021,31/08/2023,UNIVERSITÉ DE MONTPELLIER,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",#N/A,Public
+2021-2022,M ESSACAP 1A,25/10/2021,23/09/2023,ARTICLE 1,75004,Association,PARIS 04,"48,85422828","2,357361938",,Association
+2021-2022,M HUMANUM 1A EAD,30/09/2021,30/09/2023,SUPERGRID INSTITUTE,69100,SAS,VILLEURBANNE,"45,77077042","4,888458174",M1 Humanités Numériques EAD,Privé
+2021-2022,M MISRH 2A,04/09/2020,16/09/2022,LES COURRIERS DU MIDI,34090,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M MIASHS 1A,18/10/2021,01/09/2023,AIR FRANCE,93290,SA CA,TREMBLAY EN FRANCE,"48,97843041","2,554685015",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M ESEEC 2A,01/10/2021,30/09/2022,VSB ENERGIES NOUVELLES,30900,SARL,NIMES,"43,84493839","4,34806797","M2 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences",Privé
+2021-2022,M CNO 2A,01/09/2020,31/08/2022,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations,Public
+2021-2022,M ESSACAP 1A,13/09/2021,23/09/2023,CHAMBRE REGIONALE DE L'ECONOMIE SOCIAL,59000,Association,LILLE,"50,63171832","3,047832723",,Association
+2021-2022,M GRH SAC 2A,16/09/2021,30/09/2022,SARL 2 AMB,30110,SARL,LA GRAND COMBE,"44,22859324","3,974647477",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M GRH SAC 2A,04/10/2021,23/09/2022,SAS RECHERCHES ET HORIZONS,34000,SAS à Associé Unique,MONTPELLIER,"43,61344091","3,868516579",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social, 
+2021-2022,M ESSACAP 2A,11/10/2021,10/10/2022,MOUVEMENT FRANCAIS PLANNING FAMILIAL,34070,Association,MONTPELLIER,"43,61344091","3,868516579",,Association
+2021-2022,M COMPAC 2A,06/10/2020,05/10/2022,MAIRIE BREC'H,56400,Commune et Commune Nouvelle,BRECH,"47,66770574","-2,990411122","M2 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M CNO 2A,01/02/2021,05/09/2022,PAHASKA,34830,Association,JACOU,"43,66201923","3,886897482",M2 Information-Communication parcours Communication numérique et organisations,Association
+2021-2022,M DDT 2A,01/10/2021,30/09/2022,Office français de la biodiversité,,,,#N/A,#N/A,M2 Tourisme parcours Tourisme et Développement Durable, 
+2021-2022,M IDS PIDT 2A,01/10/2020,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Public
+2021-2022,M COP 2A,01/09/2021,06/09/2022,MADAME STEPHANIE LECLAIRE,34070,ERL,MONTPELLIER,"43,61344091","3,868516579",M2 Cangement Organisationnel et Personnel , 
+2021-2022,M MIASHS 1A,30/08/2021,01/09/2023,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M GRH SOI 2A,08/11/2021,30/09/2022,GC COEUR D'HERAULT,34800,SARL,CLERMONT L HERAULT,"43,56722331","3,448161194",M2 Gestion des Ressources Humaines parcours Sciences des Organisations et des Institutions,Privé
+2021-2022,M MIASHS 1A,30/08/2021,01/09/2023,MINISTERE DE L'INTERIEUR,75008,Administration d'Etat,PARIS 08,"48,87252727","2,31258256",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2021-2022,M ESSACAP 2A,03/01/2022,23/09/2022,ESPACE RENAISSANCE,34000,,MONTPELLIER,"43,61344091","3,868516579",, 
+2021-2022,M MIASHS 2A,26/10/2020,31/08/2022,CDC HABITAT,34070,Société d'économie mixte,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M MIASHS 1A,27/09/2021,02/09/2023,SNCF VOYAGEURS,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M HUMANUM 2A EAD,19/10/2020,30/09/2022,EARLY MAKERS GROUP,75012,SA,PARIS 12,"48,83515623","2,419807035",M2 Humanités Numériques EAD,Privé
+2021-2022,M MIASHS 1A,17/01/2022,31/10/2023,NEOMARCHE,13400,SAS,AUBAGNE,"43,29348438","5,563312735",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,LP ANIMATION,01/10/2021,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Public
+2021-2022,M MISRH 2A,21/09/2021,23/09/2022,AOSIS CONSULTING,31300,SARL,TOULOUSE,"43,59638143","1,431672934",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M GE 2A,04/10/2021,20/09/2022,COMMUNE DE PALAVAS LES FLOTS,34250,Commune et Commune Nouvelle,PALAVAS LES FLOTS,"43,53353646","3,926208396",M2 Gestion de l'environnement,Public
+2021-2022,M GIMD 1A EAD,18/10/2021,22/09/2023,EDF CNPE DE BELLEVILLE SUR LOIRE,18240,SA,LERE,"47,50178525","2,846196596",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Privé
+2021-2022,M EC EG EAD 2A,01/11/2021,31/10/2022,COLLECTIF MALUNÉS FR,79000,Association,NIORT,"46,29242468","-0,5136937931",,Association
+2021-2022,M COP 2A,09/11/2020,09/11/2022,CAMILLE BONNEVIAL PLUTON,38470,ERL,COGNIN LES GORGES,"45,21893063","5,458357841",M2 Cangement Organisationnel et Personnel , 
+2021-2022,M MISRH 1A,10/01/2022,23/09/2023,EMINAD,22600,SARL,LOUDEAC,"48,15715434","-2,849853114",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M PTO 2A,01/11/2021,23/09/2022,OBSERVATOIRE AMAROK,34880,Association,LAVERUNE,"43,58480998","3,8016895",M2 Psychologie sociale du travail et des organisations ,Association
+2021-2022,M ESSACAP 1A,01/10/2021,30/09/2023,CTRE COMMUNAL D'ACTION SOCIALE,30600,Collectivité Territoriale,VAUVERT,"43,62584685","4,305970933",,Public
+2021-2022,M CNO 2A,01/10/2020,30/09/2022,TECHNILUM,34500,SAS,BEZIERS,"43,34758833","3,230767542",M2 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M CAMD 2A,12/11/2021,16/09/2022,ACCILR,30900,Association,NIMES,"43,84493839","4,34806797",,Association
+2021-2022,M MIASHS 2A,02/11/2021,02/09/2022,HAWK,75013,SAS,PARIS 13,"48,82871768","2,362468229",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M COMPAC 1A,01/09/2021,11/09/2023,I2ML,30900,Association,NIMES,"43,84493839","4,34806797","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M COMPAC 2A,13/09/2021,31/10/2022,CPIE RHONE PAYS D ARLES,13104,Association,ARLES,"43,54686924","4,662156426","M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M MISRH 2A,01/09/2020,23/09/2022,LA COMPAGNIE DES DESSERTS,11200,SAS,LEZIGNAN CORBIERES,"43,24583407","2,770623578",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M COMPAC 1A,01/09/2021,11/09/2023,PREFECTURE DES PYRENEES ORIENTALES,66100,Administration d'Etat,PERPIGNAN,"42,69659541","2,89936954","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M GIMD 1A EAD,10/09/2021,30/09/2023,MAIRIE DE TOULON,83000,Administration Publique Générale,TOULON,"43,13615897","5,932396342",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Public
+2021-2022,M CAMD 2A,12/11/2021,04/11/2022,SFMD,13200,SAS,ARLES,"43,54686924","4,662156426",,Privé
+2021-2022,M CNO 1A,01/09/2021,11/09/2023,MERKUTIO,75012,SARL,PARIS 12,"48,83515623","2,419807035",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M IDS PIDT 1A,01/10/2021,22/09/2023,LE GAMELAB,34200,SARL,SETE,"43,39177058","3,647051483",M1 Intervention et développement social parcours PIDT,Privé
+2021-2022,LP DGDIN EAD,01/09/2021,29/07/2022,OCCITANIE LIVRE & LECTURE,31000,Association,TOULOUSE,"43,59638143","1,431672934",,Association
+2021-2022,LP ANIMATION,01/09/2021,31/08/2022,COMMUNE D AUBIGNAN,84810,Commune et Commune Nouvelle,AUBIGNAN,"44,09773806","5,031656767","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Public
+2021-2022,M DDT 1A,01/09/2021,31/08/2023,LE GRAND NARBONNE COMM D AGGLOMERATION,11100,Administration d'Etat,NARBONNE,"43,11764167","2,97718129",M1 Tourisme parcours Tourisme et Développement Durable,Public
+2021-2022,M ESEEC 1A,01/09/2021,30/09/2023,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579","M1 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences",Public
+2021-2022,M CNO 2A,02/11/2020,30/09/2022,APELEM,,SAS,GAILLARGUES LE MONTUEUX,#N/A,#N/A,M2 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M GIMD 2A EAD,18/10/2021,30/11/2022,TOULOUSE BUSINESS SCHOOL,31130,,QUINT FONSEGRIVES,"43,61152587","1,504591383",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD) EAD, 
+2021-2022,M MIASHS 2A,31/08/2020,01/09/2022,TOPNIR SYSTEMS,13857,SAS,AIX EN PROVENCE CEDEX 3,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M COP 1A,06/12/2021,11/09/2023,JOB ME,34280,SAS,LA GRANDE MOTTE,"43,59282795","4,004256933",#N/A,Privé
+2021-2022,M IDS PIDT 2A,04/10/2021,30/09/2022,INSTITUT MEDITERRANEEN D'ETUDE D'INGEN,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,M MISRH 2A,03/01/2022,30/09/2022,EHPAD LES TILLEULS,7560,Collectivité Territoriale,MONTPEZAT SOUS BAUZON,"44,71674718","4,196497066",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2021-2022,LP IS APS,01/10/2021,31/08/2022,OHUMAINAJA,38160,SAS,ST MARCELLIN,"45,11734196","5,350076515",L PRO intervention sanitaire et sociale parcours gestionnaire en gérontologie,Privé
+2021-2022,M MIASHS 2A,25/09/2020,02/09/2022,LYTN,34060,SAS,MONTPELLIER,"43,79331841","3,629228032",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M MISRH 2A,01/09/2020,17/09/2022,PAY JOB,75008,SARL,PARIS,"48,87252727","2,31258256",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M MIASHS 1A,01/09/2021,01/09/2023,ONAOS,,SAS,,#N/A,#N/A,M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M GE 2A,27/09/2021,26/09/2022,ASS DEP AMENA STRUC EXPL AGRIC HERAULT,34970,Association,LATTES,"43,56385941","3,902262229",M2 Gestion de l'environnement,Association
+2021-2022,M HUMANUM 2A EAD,01/07/2021,30/09/2022,CANAL + INTERNATIONAL,92100,SAS,BOULOGNE BILLANCOURT,"48,83658431","2,239135991",M2 Humanités Numériques EAD,Privé
+2021-2022,M MIASHS 2A,31/08/2020,30/09/2022,DAMMANN PRESTATIONS INFORMATIQUES,30310,SASU,VERGEZE,"43,73753604","4,233609905",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M GE 2A,10/09/2021,09/09/2022,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",M2 Gestion de l'environnement,Public
+2021-2022,M IDS PIDT 1A,05/10/2021,04/10/2023,ASSOCIATION TERRE CONTACT,34150,Association,GIGNAC,"43,68350114","3,592594376",M1 Intervention et développement social parcours PIDT,Association
+2021-2022,DUT SAP 2A,30/08/2021,30/08/2022,DOMITIA SERVICES,11100,SAS,NARBONNE,"43,11764167","2,97718129",DUT carrières sociales option service à la personne 2eme annee,Privé
+2021-2022,M MIASHS 2A,03/09/2021,02/09/2022,ORANGE,94110,SA,ARCUEIL,"48,80588036","2,33351025",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M IDS PIDT 2A,01/10/2021,30/09/2022,FLE LE BOUQUET DES GARRIGUES,34110,Association,FRONTIGNAN,"43,44824589","3,749235224",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,M GRH SAC 2A,08/11/2021,23/09/2022,ORCA SERVICES,66100,SAS,PERPIGNAN,"42,69659541","2,89936954",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M MIASHS 2A,04/01/2021,31/08/2022,AIRBUS OPERATIONS SAS TOULOUSE,31000,SASU,TOULOUSE,"43,59638143","1,431672934",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M HUMANUM 2A EAD,05/10/2020,30/09/2022,FRANCE EDUCATION INTERNATIONAL,92310,Administration d'Etat,SEVRES,"48,82147651","2,210522974",M2 Humanités Numériques EAD,Public
+2021-2022,M CNO 1A,13/09/2021,16/09/2023,MAIRIE DE TEYRAN,34820,Collectivité Territoriale,TEYRAN,"43,710413","3,897904901",M1 Information-Communication parcours Communication numérique et organisations,Public
+2021-2022,M EPSIN 2A,13/09/2021,20/09/2022,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521","Education Pédagogique, Société Inclusives",Public
+2021-2022,LP ANIMATION,15/10/2021,30/09/2022,METROPOLE D'AIX-MARSEILLE-PROVENCE,13400,,AUBAGNE,"43,29348438","5,563312735","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle", 
+2021-2022,M CNO 1A,01/09/2021,11/09/2023,ESPELIA,75009,SAS,PARIS 09,"48,87689616","2,337460241",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M COMPAC 1A,06/09/2021,11/09/2023,PREFECTURE DU GARD,30900,Administration d'Etat,NIMES,"43,84493839","4,34806797","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M HUMANUM 2A EAD,06/09/2021,30/09/2022,ENTREPRENEURIAT CONSEIL,64500,SAS,ST JEAN DE LUZ,"43,37498925","-1,661337536",M2 Humanités Numériques EAD,Privé
+2021-2022,M CNO 1A,02/11/2021,01/11/2023,PHARMACIE DU FORUM,34980,SIEGE,ST GELY DU FESC,"43,6724651","3,779494325",M1 Information-Communication parcours Communication numérique et organisations, 
+2021-2022,M CNO 1A,14/02/2022,13/09/2023,LA MELEE,31000,Association,TOULOUSE,"43,59638143","1,431672934",M1 Information-Communication parcours Communication numérique et organisations,Association
+2021-2022,M MISRH 2A,01/09/2021,30/09/2022,CLINIQUE DU PARC,34170,SA,CASTELNAU LE LEZ,"43,63802188","3,91265416",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,LP DGDIN EAD,01/10/2021,30/09/2022,COMMUNE DE PONTIVY,56300,Collectivité Territoriale,PONTIVY,"48,14728185","-2,927875543",,Public
+2021-2022,M MISRH 2A,07/09/2021,23/09/2022,OUIHELP,34080,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M CNO 2A,01/09/2020,05/09/2022,FONDATION VAN ALLEN,34090,FONDATION,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Communication parcours Communication numérique et organisations, 
+2021-2022,M COP 1A,06/09/2021,29/09/2023,EDF CNPE TRICASTIN,26130,SA,ST PAUL TROIS CHATEAUX,"44,37762309","4,806249456",#N/A,Privé
+2021-2022,M COMPAC 2A,28/09/2020,28/09/2022,TROPISME,34070,Société coopérative d'intérêt collectif,MONTPELLIER,"43,61344091","3,868516579","M2 Information-Communication parcours Communication publique, associative et culturelle", 
+2021-2022,M IDS PIDT 1A,30/08/2021,23/09/2023,ADAGES,34090,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Intervention et développement social parcours PIDT,Association
+2021-2022,M COP 1A,18/10/2021,15/09/2023,CROUS DE MONTPELLIER,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",#N/A,Public
+2021-2022,M CNO 1A,30/08/2021,11/09/2023,PHOTO CINE COMEDIE,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M GIMD 2A EAD,06/09/2021,31/08/2022,GROUPE SUP DE CO MONTPELLIER,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD) EAD,Association
+2021-2022,M MISRH 2A,13/09/2021,30/10/2022,GROUPEMENT D EMPLOYEURS PROGRESS,30670,Association,AIGUES VIVES,"43,73455792","4,190794461",M1 Gestion des Ressources Humaines parcours Management international et RH,Association
+2021-2022,M PTO 2A,01/09/2021,30/09/2022,EMOTIONS,34000,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 Psychologie sociale du travail et des organisations ,Privé
+2021-2022,M COP 2A,07/09/2020,09/09/2022,HORMANN FRANCE,89102,SAS,SENS,"47,75442171","3,49168846",M2 Cangement Organisationnel et Personnel ,Privé
+2021-2022,M CNO 1A,01/10/2021,11/09/2023,UNIVERSITÉ DE MONTPELLIER,34070,Etablissement public,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Public
+2021-2022,M MIASHS 2A,06/09/2021,02/09/2022,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M CNO 1A,11/09/2021,11/09/2023,LA PAGE QUI BOUGE,34270,SAS,VALFLAUNES,"43,76409293","3,79487939",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M GIMD 1A EAD,04/10/2021,23/09/2023,GRAINE OCCITANIE,34000,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Association
+2021-2022,M GRH SAC 2A,01/09/2021,23/09/2022,NIM EXPERT CONSEIL,30900,SARL,NIMES,"43,84493839","4,34806797",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M MIASHS 2A,01/09/2021,02/09/2022,DISRUPTDEAL,,,,#N/A,#N/A,M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M IDS PIDT 1A,13/09/2021,22/09/2023,AG2R AGIRC-ARRCO,75008,GIE,PARIS 08,"48,87252727","2,31258256",M1 Intervention et développement social parcours PIDT, 
+2021-2022,M HUMANUM 2A EAD,20/12/2021,16/12/2022,RESEAU CANOPE,86360,Etablissement Public National à caractère administratif,MONTAMISE,"46,65186002","0,3617226988",M2 Humanités Numériques EAD, 
+2021-2022,M CNO 2A,01/09/2021,30/09/2022,MADAME NICOLE HACCART,34570,ERL,MURVIEL LES MONTPELLIER,"43,64702786","3,6997028",M2 Information-Communication parcours Communication numérique et organisations, 
+2021-2022,M COP 1A,06/09/2021,30/09/2023,FRAMATOME ETS ROMANS SUR ISERE,26100,SA,ROMANS SUR ISERE,"45,0547532","5,03797756",#N/A,Privé
+2021-2022,M CNO 1A,01/09/2021,15/09/2023,DDTM 34 HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Public
+2021-2022,M GE 2A,01/09/2021,09/09/2022,ERG DÉVELOPPEMENT FRANCE,75009,SAS,PARIS 09,"48,87689616","2,337460241",M2 Gestion de l'environnement,Privé
+2021-2022,M HUMANUM 2A EAD,02/08/2021,30/09/2022,WEBFORCE 3,75004,SAS,PARIS 04,"48,85422828","2,357361938",M2 Humanités Numériques EAD,Privé
+2021-2022,M GIMD 2A EAD,01/10/2021,30/09/2022,MINISTERE DES ARMEES,94300,Administration d'Etat,VINCENNES,"48,8473732","2,437986507",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD) EAD,Public
+2021-2022,M ESSACAP 1A,20/09/2021,22/09/2023,INTER MADE,13003,Association,MARSEILLE 03,"43,31212","5,380109814",,Association
+2020-2022,M GRH SAC 2A,14/09/2020,23/09/2022,AUGEFI BASSIN DE THAU FRONTIGNAN,34110,SAS,FRONTIGNAN,"43,44824589","3,749235224",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2020-2022,M IDS PIDT 2A,01/10/2020,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Public
+2021-2022,M EPSIN 2A,09/09/2021,20/09/2022,SNCF RESEAU,,,,#N/A,#N/A,"Education Pédagogique, Société Inclusives", 
+2021-2022,M PTO 2A,01/09/2021,23/09/2022,SARL PRAXIS,31000,SARL,TOULOUSE,"43,59638143","1,431672934",M2 Psychologie sociale du travail et des organisations ,Privé
+2021-2022,M ESEEC 2A,23/08/2021,23/09/2022,LEROY MERLIN FRANCE,22360,SAS,LANGUEUX,"48,50005228","-2,709722822","M2 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences",Privé
+2021-2022,M MIASHS 1A,23/08/2021,29/09/2023,ENEDIS,34070,ERL,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M MAVINUM 2 EAD,01/10/2021,30/09/2022,POLYWEB,34170,SAS,CASTELNAU LE LEZ,"43,63802188","3,91265416","M2 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2020-2022,M MISRH 2A,01/09/2020,23/09/2022,GRID SOLUTIONS,34070,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M GRH SAC 2A,04/10/2021,23/09/2022,GROUPEMENT D EMPLOYEURS PROFESSION SPO,34070,Groupement d'employeurs,MONTPELLIER,"43,61344091","3,868516579",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social, 
+2021-2022,LP DGDIN EAD,13/09/2021,12/09/2022,EPPDCSI - UNIVERSCIENCE,75019,EPIC,PARIS 19,"48,88686862","2,384694328",,Public
+2021-2022,M MIASHS 2A,04/01/2021,30/09/2022,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579",M2 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Public
+2021-2022,M COMPAC 1A,01/09/2021,11/09/2023,AQUA-VALLEY PÔLE EAU,34070,Association,MONTPELLIER,"43,61344091","3,868516579","M1 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M MIASHS 1A,02/11/2021,30/09/2023,STE D'ENTRETIEN ET DE RESTAURATION DU,84250,SASU,LE THOR,"43,92823983","4,993241234",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M MIASHS 1A,01/09/2021,01/09/2023,INST NATIONAL RECHERCHE AGRONOMIQUE,34070,EPST,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M GIMD 2A EAD,06/09/2021,23/09/2022,MODELE DEPOSE,66100,SARL,PERPIGNAN,"42,69659541","2,89936954",M2 Information-Documentation parcours Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD) EAD,Privé
+2021-2022,M ESEEC 1A,01/09/2021,30/09/2023,GROUPAMA MEDITERRANNEE,34070,Syndicat professionnel,MONTPELLIER,"43,61344091","3,868516579","M1 Gestion des Ressources Humaines parcours  expertise socio-économique, emplois et compétences", 
+2021-2022,M COMPAC 1A,01/09/2021,11/09/2023,CHU DE MONTPELLIER,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M PTO 2A,01/10/2021,30/09/2022,MICRO-CONTROLE - SPECTRA PHYSICS,45340,SAS,BEAUNE LA ROLANDE,"48,10920996","2,48643135",M2 Psychologie sociale du travail et des organisations ,Privé
+2021-2022,M COP 2A,02/09/2021,06/09/2022,PASSEURS-CULTURES/IMAGES PACIM,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Cangement Organisationnel et Personnel ,Association
+2021-2022,M IDS PIDT 1A,30/08/2021,23/09/2023,CAISSE D ALLOCATIONS FAMILIALES DU GAR,30000,Etablissement Public National à caractère administratif,NIMES,"43,84493839","4,34806797",M1 Intervention et développement social parcours PIDT, 
+2021-2022,LP DGDIN,01/09/2021,31/08/2022,UNIVERSITE PAUL VALERY MONTPELLIER 3,34199,Administration d'Etat,MONTPELLIER CEDEX 5,"43,46299017","3,416516521",#N/A,Public
+2021-2022,M IDS PIDT 2A,01/11/2021,31/10/2022,VRAC & COCINAS - COOPERATIONS CITOYENN,34080,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,LP ANIMATION,07/09/2021,30/08/2022,ASSOCIATION VIE ET CULTURE,64121,Association,SERRES CASTET,"43,36512747","-0,350467487","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2021-2022,M CNO 1A,01/09/2021,06/09/2022,DIRECTION INTERREGIONALE DES DOUANES O,34000,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Public
+2021-2022,M CAMD 2A,03/09/2021,31/10/2022,GROUP PROGRAMMATION CINEMAS INDEPENDAN,12100,SARL,MILLAU,"44,09647837","2,979619131",,Privé
+2021-2022,M DDT 2A,13/09/2021,17/09/2022,COTTAGEPARKS MEDITERRANEE,34470,SAS,PEROLS,"43,56066427","3,951757085",M2 Tourisme parcours Tourisme et Développement Durable,Privé
+2020-2022,M MISRH 2A,01/09/2020,23/09/2022,SECRÉTARIAT GÉNÉRAL COMMUN DE VAUCLUSE,84000,Administration d'Etat,AVIGNON CEDEX 9,"43,93524483","4,840715725",M1 Gestion des Ressources Humaines parcours Management international et RH,Public
+2021-2022,M GE 2A,25/10/2021,09/09/2022,"SAVE (SABLE, VAGUE, ENVIRONNEMENT)",34110,Association,FRONTIGNAN,"43,44824589","3,749235224",M2 Gestion de l'environnement,Association
+2021-2022,M GE 2A,06/09/2021,09/09/2022,PREFECTURE DE L'HERAULT,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579",M2 Gestion de l'environnement,Public
+2021-2022,M MIASHS 1A,01/09/2021,01/09/2023,ORANO CE TRICASTIN,26700,SA,PIERRELATTE,"44,39103213","4,749955216",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M MIASHS 1A,09/08/2021,01/09/2023,TZAV DESIGN,84000,SARL,AVIGNON,"43,93524483","4,840715725",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,LP DGDIN,01/09/2021,31/08/2022,ECOUTER LE BRUIT,78300,ERL,POISSY,"48,92353594","2,027155528",#N/A, 
+2021-2022,M CAMD 2A,02/11/2021,16/09/2022,ASS OLYMPIA CINEMA ET SPECTACLE,32600,Association,L ISLE JOURDAIN,"43,55855842","1,073816515",,Association
+2020-2022,M GRH SAC 2A,01/09/2020,30/09/2022,RM AUDIT & EXPERTISE,34070,SARL,MONTPELLIER,"43,61344091","3,868516579",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,LP ANIMATION,01/07/2021,30/06/2022,LIGUE DE L ENSEIGNEMENT DU GARD,30900,Association,NIMES,"43,84493839","4,34806797","L PROmétiers de l'animation sociale , socio-éducative et socioculturelle",Association
+2021-2022,M COMPAC 1A,01/12/2021,30/11/2023,AGENCE REGIONALE DE SANTE OCCITANIE,34070,Administration d'Etat,MONTPELLIER,"43,61344091","3,868516579","M1 Information-Communication parcours Communication publique, associative et culturelle",Public
+2021-2022,M COMPAC 2A,01/02/2021,05/09/2022,BASSE COUR,30000,Association,NIMES,"43,84493839","4,34806797","M2 Information-Communication parcours Communication publique, associative et culturelle",Association
+2021-2022,M MISRH 2A,13/09/2021,23/09/2022,NORAUTO FRANCE,34540,SAS,BALARUC LE VIEUX,"43,44690071","3,690720868",M1 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M MIASHS 1A,29/11/2021,31/10/2023,INTRADO DIGITAL MEDIA FRANCE,75009,,PARIS 9E,"48,87689616","2,337460241",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales, 
+2021-2022,M GE 2A,06/09/2021,09/09/2022,CONSERVATOIRE D'ESPACES NATURELS RA,69390,Association,VOURLES,"45,65080302","4,789795723",M2 Gestion de l'environnement,Association
+2021-2022,M IDS PIDT 2A,18/10/2021,14/10/2022,ASSOCIATION DEFI,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M2 Intervention et développement social parcours PIDT,Association
+2021-2022,M CNO 1A,06/12/2021,11/09/2023,APACHES,34000,SAS,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M GIMD 1A EAD,01/10/2021,30/09/2023,COMITE DEPARTEMENTAL D EDUCATION POUR,34070,Association,MONTPELLIER,"43,61344091","3,868516579",M1 Information-Documentation parcours gestion de l'information et médiation documentaire : métiers des bibliothèques et de la documentation (GIMD),Association
+2021-2022,M CNO 1A,22/11/2021,30/09/2023,HORYZON MEDIA,92130,SAS,ISSY LES MOULINEAUX,"48,82347434","2,264498233",M1 Information-Communication parcours Communication numérique et organisations,Privé
+2021-2022,M MIASHS 1A,30/08/2021,01/09/2023,SANOFI AVENTIS RECHERCHE DEVELOPPEMENT,34070,SA,MONTPELLIER,"43,61344091","3,868516579",M1 Mathématiques et Informatique appliquées aux Sciences Humaines et Sociales,Privé
+2021-2022,M CNO 2A,01/02/2021,30/09/2022,APSARA MEDIA,13300,ERL,SALON DE PROVENCE,"43,64628852","5,068146496",M2 Information-Communication parcours Communication numérique et organisations, 
+2021-2022,M CAMD 2A,17/09/2021,16/09/2022,GINDOU CINEMA,46250,Association,GINDOU,"44,5993732","1,245537518",,Association
+2021-2022,M MISRH 1A,01/09/2021,22/09/2023,GEST'RH,76620,SARL,LE HAVRE,"49,4984525","0,1401537192",M2 Gestion des Ressources Humaines parcours Management international et RH,Privé
+2021-2022,M GRH SAC 2A,01/09/2021,23/09/2022,IMERYS PCC FRANCE,13129,SAS,ARLES,"43,54686924","4,662156426",M2 mention Gestion des Ressources Humaines parcours Gestion des RH Sectorielle et Audit Social,Privé
+2021-2022,M MAVINUM 1A,01/11/2021,29/09/2023,HAIR FSY,94130,SAS,NOGENT SUR MARNE,"48,83666347","2,481667415","M1 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Privé
+2021-2022,M MAVINUM 1A,15/10/2021,30/09/2023,CONSEIL DEPARTEMENTAL DE L'HERAULT,34070,Collectivité Territoriale,MONTPELLIER,"43,61344091","3,868516579","M1 Information-Documentation parcours management et valorisation de l'information de l'information numérique : métiers de la données, de l'information numérique (MAVINUM)",Public
